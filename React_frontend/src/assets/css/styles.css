@@ -1,0 +1,998 @@
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4; /* Light grey background for the entire page */
+  margin: 0;
+  padding: 0;
+}
+
+/* Layout container */
+.layout-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Header */
+.header {
+  display: flex;
+  justify-content: center; /* Center the content in the header */
+  align-items: center;
+  padding: 1em;
+  background-color: #fff; /* White background for the header */
+  color: black;
+  font-variant: small-caps;
+}
+
+.header img {
+  margin-right: 10px;
+}
+
+/* Navbar */
+/* Navbar */
+.navbar-container {
+  background-color: #000; /* Black background for the navbar */
+  display: flex;
+  justify-content: center; /* Center the navbar container */
+  align-items: center; /* Center vertically */
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; /* Center the navbar items */
+  padding: 0.5em 0;
+  font-variant: small-caps; /* Make navbar in small caps */
+  width: 100%; /* Ensure navbar takes full width */
+  position: relative;
+}
+
+.auth-menu {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.menu-toggle {
+  display: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.menu-toggle .bar {
+  width: 25px;
+  height: 3px;
+  background-color: white; /* White bars for the toggle */
+  margin: 4px 0;
+}
+
+.navbar ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center; /* Center the navbar items */
+  align-items: center; /* Center vertically */
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+
+.navbar li {
+  padding: 0 1em;
+}
+
+.navbar .logout-button {
+  color: white;
+  background-color: black;
+  border: 0;
+}
+
+.navbar a {
+  color: white; /* White text for navbar links */
+  text-decoration: none;
+}
+
+.navbar ul.open {
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .menu-toggle {
+    display: block;
+  }
+
+  .navbar ul {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    background-color: #000;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    align-items: center; /* Center items vertically */
+  }
+
+  .navbar ul.open {
+    display: flex;
+  }
+
+  .navbar li {
+    width: 100%;
+    text-align: center;
+    padding: 1em 0;
+  }
+}
+
+/* Main content */
+.main-content {
+  display: flex;
+  flex: 1;
+  padding: 20px;
+  background-color: #fff; /* White background for main content */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+  border-radius: 10px;
+}
+
+.content {
+  flex-grow: 1;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 250px;
+  background-color: #f4f4f4;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-right: 20px;
+  border-radius: 10px;
+  position: fixed;
+  left: -230px; /* Hide the sidebar mostly off-screen */
+  top: 20px;
+  height: calc(100vh - 40px); /* Ensure sidebar fits the height */
+  transition: left 0.3s ease;
+  z-index: 1000;
+}
+
+.sidebar:hover {
+  left: 0; /* Show sidebar on hover */
+}
+
+.sidebar-tab {
+  position: absolute;
+  right: -30px;
+  top: 50%;
+  width: 30px;
+  height: 60px;
+  background-color: #f4f4f4;
+  color: #ccc;
+  font-variant: small-caps;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar li {
+  margin-bottom: 1em;
+}
+
+.sidebar a {
+  color: #000;
+  text-decoration: none;
+  display: block;
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.sidebar a:hover {
+  background-color: #e0e0e0;
+}
+
+/* Google Translate */
+.translate-element {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  z-index: 1000;
+  background-color: white; /* Ensure it has a white background */
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 5px;
+}
+
+/* Footer */
+.footer {
+  background-color: #000;
+  color: white;
+  text-align: center;
+  padding: 1em 0;
+}
+
+/* Chat box home */
+.chat-box-home {
+  background-color: #fafafa;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+/* Process graphic */
+.process-graphic {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.icon-with-text {
+  text-align: center;
+}
+
+.icon-with-text img {
+  width: 50px;
+  height: auto;
+  margin-bottom: 8px;
+}
+
+.arrow-and-text .arrow {
+  font-size: 60px;
+  margin: 0;
+}
+
+.arrow-text {
+  max-width: 160px;
+  font-size: 14px;
+  word-wrap: break-word;
+  text-align: center;
+  margin: 0;
+}
+
+/* Buttons */
+.signup-button {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  display: block;
+  margin: 20px auto 0;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+  border-radius: 5px;
+}
+
+.signup-button:hover {
+  background-color: #333;
+}
+
+.signup-button a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Demo documents */
+.demo-documents {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.demo-documents .document,
+.prompt-container {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: 100%;
+  max-width: 1000px;
+  margin-bottom: 20px;
+}
+
+.document-title {
+  text-align: center;
+}
+
+.document-content {
+  border: 1px solid #ccc;
+  padding: 10px;
+  background-color: #f9f9f9;
+  max-height: 150px;
+  overflow-y: auto;
+  box-sizing: border-box;
+}
+
+.prompt-container .prompt-box {
+  padding: 10px;
+  background-color: white;
+  color: black;
+  border: 2px solid black;
+  text-align: center;
+  width: 60%;
+  position: relative;
+  z-index: 1;
+  margin-top: 30px;
+}
+
+.prompt-box::after,
+.prompt-box::before {
+  content: '';
+  width: 0;
+  height: 0;
+  position: absolute;
+  bottom: -20px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.prompt-box::after {
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  border-top: 20px solid white;
+  z-index: 1;
+}
+
+.prompt-box::before {
+  border-left: 30px solid transparent;
+  border-right: 30px solid transparent;
+  border-top: 30px solid black;
+  bottom: -30px;
+  z-index: 0;
+}
+
+/* Pricing and functionality */
+.pricing-functionality {
+  background-color: #f0f0f0;
+  border: 2px solid black;
+  padding: 20px;
+  margin-top: 20px;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+.pricing-functionality h3 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.pricing-functionality ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.pricing-functionality li {
+  margin-bottom: 10px;
+}
+
+/* Demo request form */
+.demo-request {
+  margin-bottom: 20px;
+}
+
+.demo-request h3 {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.demo-request .form-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1em;
+}
+
+.demo-request .form-group label {
+  font-weight: bold;
+  margin-bottom: 0.5em;
+  display: block;
+  text-align: left;
+}
+
+.demo-request .form-group input,
+.demo-request .form-group textarea {
+  width: 100%;
+  padding: 0.5em;
+  font-size: 1em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.demo-request button {
+  width: 100%;
+  padding: 1em;
+  font-size: 1em;
+  font-weight: bold;
+  background-color: #000; /* Black background for buttons */
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.2s;
+}
+
+.demo-request button:hover {
+  background-color: #333; /* Darker black on hover */
+}
+
+/* Usage history */
+.usage-history-page {
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.usage-history-page h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th,
+td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+/* Subscription page */
+.subscription-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  height: 100%;
+}
+
+.plan-options {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.plan {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 10px;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+  background-color: #fff;
+  text-align: center;
+  flex: 1;
+}
+
+.plan.selected {
+  border-color: #000; /* Black border for selected plan */
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.plan:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.subscribe-button {
+  background-color: #000; /* Black background for buttons */
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.subscribe-button:hover {
+  background-color: #333; /* Darker black on hover */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .main-content {
+    flex-direction: column;
+  }
+
+  .navbar ul {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 20px;
+    position: static;
+  }
+
+  .usage-history-page,
+  .subscription-page {
+    width: 100%;
+  }
+}
+
+/* General form styles */
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  background-color: #49474d;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  opacity: 0.95;
+}
+
+.form-box {
+  background-color: #fff; /* White background for the form */
+  padding: 40px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px; /* Max width for the form */
+  box-sizing: border-box;
+}
+
+.form-box h2 {
+  margin-bottom: 20px;
+  font-size: 24px;
+  text-align: center;
+  font-variant: small-caps;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+  width: 100%;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.form-group button {
+  width: 100%;
+  padding: 12px;
+  background-color: #000;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-variant: small-caps;
+  transition: background-color 0.3s ease;
+}
+
+.form-group button:hover {
+  background-color: #333; /* Darker black on hover */
+}
+/* Centering the Google login button */
+.google-login {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.google-login button {
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  background-color: #4285f4;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-variant: small-caps;
+  transition: background-color 0.3s ease;
+}
+
+.google-login button:hover {
+  background-color: #357ae8; /* Darker blue on hover */
+}
+
+.form-footer {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.form-footer a {
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+  font-variant: small-caps;
+  transition: color 0.3s ease;
+}
+
+.form-footer a:hover {
+  color: #333; /* Darker black on hover */
+}
+.content-wrapper {
+  padding: 20px;
+}
+
+.main {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.centered-text {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.flex-item {
+  flex: 1;
+  min-width: 300px;
+}
+
+.grey-box {
+  background: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.centered-title {
+  text-align: center;
+}
+
+.rag-short-mode {
+  text-align: center;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.divider {
+  width: 100%;
+  height: 1px;
+  background-color: #ccc;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+#rag-input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.arrow-button,
+.demo-select {
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-align: center;
+  cursor: pointer;
+  display: inline-block;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.arrow-button:hover,
+.demo-select:hover {
+  background-color: #444;
+}
+
+.demo-select {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  position: relative; /* Added to position the arrow */
+  text-align: center; /* Add this line to center text */
+}
+
+.demo-select::after {
+  content: '▼';
+  font-size: 12px;
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+.process-graphic {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.icon-with-text,
+.arrow-and-text {
+  text-align: center;
+}
+
+.demo-documents {
+  margin-top: 20px;
+}
+
+select {
+  background-color: black;
+  color: white;
+  border: 1px solid #ccc;
+  padding: 5px;
+  border-radius: 4px;
+}
+
+select option {
+  background-color: white;
+  color: black;
+}
+
+.scrollable-box {
+  max-height: 200px;
+  overflow-y: scroll;
+  background: #fff;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-top: 10px;
+  width: 100%; /* Make the box take the full width */
+  box-sizing: border-box; /* Ensure padding is included in the width */
+}
+
+.pricing-functionality {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.pricing-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.pricing-option {
+  flex: 1;
+  min-width: 250px;
+  background: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.pricing-option h4 {
+  margin-bottom: 10px;
+}
+.pricing-options {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap; /* Allows items to wrap to the next line on smaller screens */
+}
+
+.pricing-option {
+  flex: 1; /* Ensures each option takes equal width */
+  margin: 10px; /* Adds space around each option */
+  min-width: 250px; /* Ensures the options don't get too small */
+  box-sizing: border-box; /* Ensures padding and border are included in the element's total width and height */
+}
+
+.signup-button {
+  display: block;
+  padding: 10px 20px;
+  background-color: #000;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+}
+
+.signup-button:hover {
+  background-color: #333;
+}
+
+.review-section {
+  margin-top: 50px;
+  text-align: center;
+}
+.review-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.review-content {
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.review-details {
+  display: flex;
+  align-items: center;
+}
+
+.review-photo {
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.review-text {
+  margin-right: 20px;
+}
+
+.review-comments {
+  flex-grow: 1;
+}
+
+.prev-button,
+.next-button {
+  background-color: #007bff;
+  border: none;
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.prev-button:hover,
+.next-button:hover {
+  background-color: #0056b3;
+}
+/* Extend text area in short mode */
+/* Extend text area in short mode */
+#rag-input {
+  height: 230px; /* Adjust height as needed */
+}
+
+.rag-output {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.select-tone {
+  min-width: 200px;
+  margin-bottom: 0.5rem;
+}
+
+.select-law {
+  min-width: 200px;
+  margin-bottom: 0.5rem;
+}
+
+.select-language {
+  margin-bottom: 0.5rem;
+  min-width: 200px;
+}
+
+/* Adjust entry button size in short mode */
+.arrow-button {
+  height: 40px; /* Adjust height to match long mode button */
+  width: 100%;
+  font-size: 18px; /* Adjust font size for visibility */
+  padding: 10px 20px; /* Add padding for better appearance */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Remove bullet points in subscription options information */
+.pricing-option ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Increase margins around reviews */
+.review-section {
+  margin-top: 50px;
+  padding: 20px;
+}
+
+.review-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+
+.review-content {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin: 0 20px;
+  flex-grow: 1;
+}
+
+/* Subtle sideways buttons, spread wider, and black and white */
+.prev-button,
+.next-button {
+  background-color: transparent;
+  border: 2px solid black;
+  color: black;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 24px; /* Increase size for better visibility */
+}
+
+.prev-button:hover,
+.next-button:hover {
+  background-color: black;
+  color: white;
+}
+
+.review-photo {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+.review-text {
+  max-width: 600px; /* Adjust max-width for larger text */
+  text-align: left;
+}
+
+.review-job-title {
+  font-style: italic;
+}

@@ -1,0 +1,80 @@
+**Privacy Policy for Whiteshoe.net**
+
+Owned by Web3 Services, LLC
+
+---
+
+### 3. Data Policy
+
+**3.1. Data Privacy**
+
+**Commitment to Data Privacy:**
+
+Whiteshoe.net, owned by Web3 Services, LLC ("Whiteshoe"), is dedicated to protecting the privacy and security of our users' data. Our commitment is to uphold the highest standards of privacy and data protection in every aspect of our operations, providing AI support to lawyers with integrity and responsibility.
+
+**Summary of Data Privacy Policies:**
+
+This section outlines our policies regarding the collection, use, and protection of user data. Our policies are designed to comply with applicable laws and regulations, ensuring that user data is handled securely and transparently.
+
+**3.2. Data Usage**
+
+**Restrictions on Use of User Data:**
+
+User data will be utilized strictly for the purpose of improving our services and providing AI support to lawyers. Whiteshoe will not use user data for any unrelated commercial purposes, except as necessary for the training and refinement of our AI models.
+
+**Data Sharing and Third-Party Access:**
+
+Whiteshoe will not share user data with any third parties unless compelled by a valid court order that has jurisdiction over Whiteshoe. We are committed to maintaining the confidentiality of user data and will take all reasonable steps to protect it from unauthorized access.
+
+**3.3. Court Orders and Legal Compulsions**
+
+**Compliance with Legal Orders:**
+
+Whiteshoe will comply with all legal orders that are valid and have jurisdiction over our operations. We are committed to upholding the law while also protecting our users' rights and privacy.
+
+**Defense of User Data in Legal Proceedings:**
+
+Should there be a need to defend user data in legal proceedings, Whiteshoe will take all reasonable efforts to protect user privacy and rights, consistent with our legal obligations.
+
+**3.4. Data Storage and Security**
+
+**Security Measures for Data Protection:**
+
+Whiteshoe implements robust security measures to protect user data from unauthorized access, alteration, and disclosure. These measures include, but are not limited to, encryption, firewalls, and access control procedures.
+
+**Data Retention Period and Deletion Policy:**
+
+User data will be retained only for as long as necessary to fulfill the purposes for which it was collected, including for the purposes of satisfying any legal, accounting, or reporting requirements. Upon the expiration of the data retention period, user data will be securely deleted from our systems.
+
+**3.5. Commercial Use of Data**
+
+**Non-commercial Use Commitment:**
+
+Whiteshoe is committed to not using user data for commercial purposes, with the sole exception of improving and training our AI models to better serve our users.
+
+**Timeframe for Data Use Restrictions:**
+
+These restrictions on the use of data are in force for as long as the data is in our possession, ensuring that user data is always handled with the utmost care and respect.
+
+**3.6. Transparency and User Control**
+
+**User Access to Their Data:**
+
+Users have the right to access their own data, to understand how it is being used, and to correct any inaccuracies in their data.
+
+**Options for Data Management by Users:**
+
+Whiteshoe provides users with options to manage their data, including updating, deleting, or exporting their data upon request, subject to certain limitations as required by law or necessary for the integrity of our services.
+
+### Conclusion
+
+**Summary of Key Points:**
+
+- Whiteshoe is committed to protecting user privacy and data.
+- User data will be used strictly for providing and improving AI support services.
+- Whiteshoe will comply with legal orders but will strive to protect user data within the bounds of the law.
+- Robust security measures are in place to protect user data.
+- User data will not be used for commercial purposes, except for AI model training.
+- Users have control over their data and can access and manage it.
+
+This privacy policy reaffirms Whiteshoe.net's commitment to safeguarding the privacy and security of our users' data. We are dedicated to maintaining transparency and providing control to our users over their personal information.

@@ -1,0 +1,93 @@
+{
+  "name": "gpt4-react-app",
+  "homepage": "https://whiteshoe.net",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@craco/craco": "^7.1.0",
+    "@fortawesome/fontawesome-free": "^6.5.2",
+    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@pdf-lib/fontkit": "^1.1.1",
+    "@react-oauth/google": "^0.12.1",
+    "@react-pdf/layout": "3.6.4",
+    "@react-pdf/renderer": "3.1.14",
+    "@stripe/react-stripe-js": "^2.7.1",
+    "@stripe/stripe-js": "^3.3.0",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "assert": "^2.0.0",
+    "axios": "^1.7.2",
+    "bootstrap": "^5.3.3",
+    "browserify-zlib": "^0.2.0",
+    "buffer": "^6.0.3",
+    "chart.js": "^4.4.3",
+    "cors": "^2.8.5",
+    "crypto-browserify": "^3.12.0",
+    "docxtemplater": "^3.47.0",
+    "dotenv": "^16.4.5",
+    "dotenv-webpack": "^8.1.0",
+    "file-saver": "^2.0.5",
+    "html-docx-js": "^0.1.0",
+    "https-browserify": "^1.0.0",
+    "jwt-decode": "^4.0.0",
+    "os-browserify": "^0.3.0",
+    "path-browserify": "^1.0.1",
+    "pdf-lib": "^1.17.1",
+    "process": "^0.11.10",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.10.2",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0",
+    "react-dropdown": "^1.11.0",
+    "react-dropzone": "^14.2.3",
+    "react-google-button": "^0.8.0",
+    "react-loader-spinner": "^6.1.6",
+    "react-loading": "^2.0.3",
+    "react-modal": "^3.16.1",
+    "react-pdf": "^9.0.0",
+    "react-router-dom": "^6.22.3",
+    "react-scripts": "^5.0.1",
+    "react-spinners": "^0.13.8",
+    "react-toastify": "^10.0.5",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "stripe": "^15.1.0",
+    "util": "^0.12.5",
+    "vm-browserify": "^1.1.2",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.18.6",
+    "@babel/plugin-proposal-private-methods": "^7.18.6",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@iconify/react": "^5.0.1",
+    "craco-alias": "^3.0.1"
+  }
+}

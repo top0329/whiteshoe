@@ -1,0 +1,22 @@
+## frontend
+
+# dependencies
+React_frontend/node_modules
+React_frontend/.pnp
+React_frontend/.pnp.js
+
+# secure
+React_frontend/.env
+
+# production
+React_frontend/build
+
+## backend
+
+# dependencies
+Node_backend/node_modules
+Node_backend/*.pem
+Node_backend/.env
+
+# secure
+Node_backend/.env

@@ -1,0 +1,27 @@
+/* LegalDocument.css */
+.legal-document-container {
+  width: 100%;
+  text-align: center;
+  font-family: 'Times New Roman', serif;
+}
+
+.court-title, .court-location, .case-number, .complaint-title {
+  display: block; /* Ensure each line is displayed as block for correct spacing */
+}
+
+.parties {
+  text-align: left;
+  display: inline-block;
+  text-align: left;
+  margin-top: 20px;
+}
+
+.plaintiff, .plaintiff-guardian, .versus, .defendant {
+  margin-left: 40px; /* Adjust as needed */
+}
+
+.complaint-title {
+  font-weight: bold;
+  text-decoration: underline;
+  margin-top: 20px;
+}

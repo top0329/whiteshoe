@@ -1,0 +1,301 @@
+File: {https://tc.gob.pe/jurisprudencia/2024/01803-2023-HC.pdf}
+
+Prompt: Write a brief in opposition to the decision on behalf of Castillo. Criticize the legal arguments in the opinion and raise all possible legal arguments available on behalf of Castillo under Peruvian and international law.
+
+
+
+## Índice
+
+### 1. Introducción
+Castillo
+Este escrito pretende analizar, desde una perspectiva legal, la polémica decisión del Tribunal Constitucional del Perú en relación a los eventos ocurridos el 7 de diciembre de 2022 y la relevancia de la figura del fuero presidencial. El análisis se divide en varias secciones que desglosan los argumentos en contra de la decisión, críticas a los fundamentos del Tribunal, y la defensa basada en el derecho tanto peruano como internacional. Además, se presentará una propuesta de interpretación alternativa que respete los principios democráticos y el Estado de Derecho.
+
+### 2. Contexto Histórico-Político
+
+#### Breve resumen de los hechos del 7 de diciembre de 2022
+
+El 7 de diciembre de 2022 se produjo una crisis constitucional en el Perú. El entonces Presidente Pedro Castillo intentó disolver el Congreso y declarar un estado de excepción, decisión que fue ampliamente criticada y rechazada por diversas instituciones y sectores de la sociedad civil. El intento de disolución fue visto por muchos como una ruptura del orden constitucional y desencadenó una serie de eventos que culminaron en la detención de Castillo y su eventual destitución por el Congreso. Posteriormente, el Tribunal Constitucional tuvo que tomar una decisión sobre la legalidad de dichas acciones y las consecuencias constitucionales y jurídicas derivadas.
+
+### 3. Argumentos Principales en Contra de la Decisión del Tribunal Constitucional
+
+#### Fallos en la Determinación de Flagrancia
+
+Uno de los principales argumentos en contra de la decisión del Tribunal Constitucional es la determinación de flagrancia en el caso de Pedro Castillo. La flagrancia, según el Código Procesal Penal peruano, se refiere a la situación en la que un individuo es sorprendido en el momento de cometer un delito o inmediatamente después. Sin embargo, en este caso específico, la interpretación de flagrancia resulta problemática y difusa. Según los defensores de Castillo, los actos cometidos por él no cumplen con los requisitos estrictos de flagrancia establecidos en la normativa vigente. El Tribunal, al validar dicha flagrancia, podría haber interpretado la norma de manera excesivamente amplia, lo que pone en riesgo el principio de legalidad y certeza jurídica.
+
+#### Protección Constitucional y el Fuero Presidencial
+
+Otro aspecto crítico es la violación al fuero presidencial. De acuerdo con el artículo 117 de la Constitución Política del Perú, el Presidente sólo puede ser acusado durante su mandato por cuatro causales específicas: traición a la patria, impedir elecciones, disolver el Congreso fuera de los términos previstos en la Constitución, e impedir la reunión o funcionamiento del Congreso o del Jurado Nacional de Elecciones. Ninguna otra causal justifica una acusación durante su mandato, y cualquier interpretación fuera de estas causales específicas contraviene la protección otorgada al presidente en el cumplimiento de sus funciones.
+
+### 4. Críticas Específicas a los Fundamentos del Tribunal Constitucional
+
+#### Error en la Aplicación del Artículo 117 de la Constitución
+
+El Tribunal Constitucional cometió un error en la aplicación del artículo 117 de la Constitución en su resolución sobre Pedro Castillo. Dado que los hechos del 7 de diciembre no encajan claramente en las causales de acusación permitidas por la Constitución, la decisión del Tribunal podría ser considerada como una extralimitación en sus funciones interpretativas. Al desatender las garantías otorgadas al Presidente en el artículo 117, se vulnera el principio de interpretación estricta de las excepciones a la inmunidad presidencial. La Constitución debe interpretarse restrictivamente en estos casos para evitar la erosión de las protecciones que resguardan la estabilidad institucional.
+
+#### Falta de Proporcionalidad y Razonabilidad en la Estrategia Judicial
+
+Adicionalmente, la estrategia judicial empleada ha sido criticada por su falta de proporcionalidad y razonabilidad. Toda acción judicial debe respetar los principios de proporcionalidad y razonabilidad, pilares fundamentales del Estado de Derecho. La intervención judicial sobre el presidente Castillo, incluyendo su detención y procesamiento, pudo haber desconsiderado estos principios. La intervención basada en una interpretación extensa de flagrancia, sin considerar plenamente el fuero presidencial, podría percibirse como desproporcionada y carente de la debida razonabilidad que debe guiar cualquier acción del poder judicial, especialmente en contra de un alto funcionario del Estado.
+
+### 5. Argumentos Legales en Defensa de Castillo
+
+#### Derecho Peruano
+
+##### Inviolabilidad Presidencial
+
+La Constitución del Perú otorga al Presidente una protección que debe interpretarse de manera estricta para asegurar la inviolabilidad de sus funciones. Bajo este prisma, las actuaciones contra Castillo parecen no haber respetado la literalidad y la intención del constituyente al establecer las garantías presidenciales. Esta protección incluye no sólo la inmunidad procesal frente a acciones judiciales sino también la imposibilidad de ser detenido salvo en las situaciones expresamente previstas en la Constitución.
+
+##### Procedimientos de Vacancia y Antejuicio
+
+La Constitución establece procedimientos claros y específicos para la vacancia presidencial y el antejuicio político. La vacancia por incapacidad moral, el interregno constitucional y el antejuicio político son instrumentos que buscan equilibrar la necesidad de control político con la estabilidad del cargo presidencial. En este caso, la aplicación de estos procedimientos ha sido cuestionada seriamente, sugiriendo que las acciones contra Castillo no siguieron el debido proceso constitucional y que los fundamentos legales invocados no se ajustan a derecho.
+
+#### Derecho Internacional
+
+##### Instrumentos Internacionales de Derechos Humanos
+
+El Perú es signatario de varios tratados internacionales de derechos humanos que protegen el debido proceso y la protección frente a detenciones arbitrarias. Entre ellos se encuentran la Convención Americana sobre Derechos Humanos y el Pacto Internacional de Derechos Civiles y Políticos. Analizando el caso desde una perspectiva de derecho internacional, el trato dispensado a Castillo podría ser visto como una violación de estos instrumentos, dado que las garantías procesales no parecen haber sido observadas de forma estricta.
+
+##### Principios de Debido Proceso
+
+Los principios de debido proceso, incluidos en diversos instrumentos internacionales y en la propia legislación peruana, requieren que toda persona tenga derecho a un proceso justo, público y con las debidas garantías. La interpretación extensiva de la flagrancia, sumada a la falta de respeto por el fuero presidencial y los procedimientos de vacancia, podría ser interpretada como una transgresión de estos principios. El debido proceso implica no sólo el respeto a las normas formales sino también la observancia de las garantías que aseguren un juicio justo y equitativo.
+
+### 6. Propuesta de Interpretación Alternativa
+
+#### Interpretación Correcta de la Inmunidad Presidencial
+
+Una interpretación correcta de la inmunidad presidencial debe enfocarse en preservar las funciones y la estabilidad del cargo. Esta interpretación protege al presidente frente a acciones que puedan socavar la estabilidad institucional y asegura que cualquier intervención judicial respete estrictamente las disposiciones constitucionales. La inmunidad presidencial no es una carta blanca para la impunidad, pero sí una garantía de que los controles políticos y judiciales se ejerzan con un máximo respeto al diseño constitucional.
+
+#### Procedimientos Democráticos y el Principio de Legalidad
+
+Finalmente, cualquier acción contra el Presidente debe seguir los procedimientos democráticos establecidos y respetar el principio de legalidad. Esto significa aplicar los procedimientos de vacancia y antejuicio de forma rigurosa y limitada a los casos expresamente contemplados en la Constitución. Deben salvaguardarse los principios del Estado de Derecho, evitando interpretaciones extensivas que puedan socavar las garantías institucionales y personales del alto cargo. La preservación del orden democrático y el principio de legalidad son esenciales para una gobernabilidad efectiva y la confianza en las instituciones.
+
+---
+
+En este análisis, se ha examinado profundamente el contexto histórico y político, la criticidad en la interpretación de los actos de flagrancia de Castillo, y se propuso una interpretación alternativa que respete la constitución peruana, el derecho internacional, y los principios democráticos.
+
+## **Desarrollo del Documento**
+
+La decisión del Tribunal Constitucional del Perú sobre los eventos del 7 de diciembre de 2022 ha generado un debate intenso en torno a la interpretación y aplicación de la ley constitucional peruana, en particular, en relación con el fuero presidencial y la flagrancia.
+
+### Fallos en la Determinación de Flagrancia
+
+La flagrancia, como se define en el Código Procesal Penal peruano, implica que el individuo sea sorprendido en el acto delictivo o inmediatamente después de cometerlo. En relación a Castillo, su intento de disolver el Congreso y declarar el estado de excepción planteó un problema serio de interpretación respecto a si sus actos se califican como flagrancia. La defensa de Castillo argumenta que sus acciones no se alinean con la definición estricta de flagrancia, ya que su intento de disolución congresal no es un delito común claramente presente en las circunstancias inmediatas requeridas por la ley para configurar flagrancia.
+
+De acuerdo con el artículo 259 del Código Procesal Penal peruano, la flagrancia delictiva requiere inmediatez y evidencias irrefutables de la comisión del delito. En este contexto, el Tribunal podría haber hecho una interpretación amplia que sobrepasa los límites normativos de lo que constituye flagrancia, afectando el principio de tipicidad y certeza jurídica según los artículos 2(24)(d) y 139(3) de la Constitución Política del Perú. Tal interpretación podría abrir un precedente que erosiona la protección de derechos fundamentales y llevar a suposiciones peligrosas en futuros casos similares.
+
+### Protección Constitucional y el Fuero Presidencial
+
+El fuero presidencial, regulado en el artículo 117 de la Constitución Política del Perú, otorga una protección específica al presidente en funciones, indicando que solo puede ser acusado durante su mandato por traición a la patria, impedir elecciones, disolver el Congreso fuera de los términos previstos en la Constitución, e impedir la reunión o el funcionamiento del Congreso o del Jurado Nacional de Elecciones. Esta protección se basa en la doctrina de inmunidad para asegurar la estabilidad en las funciones presidenciales y que el mandatario cumpla sus responsabilidades sin perturbaciones indebidas.
+
+Al considerar si los actos de Castillo encajan dentro de estas causales, el Tribunal Constitucional podría haber cometido un error al tomar una interpretación expansiva que no se ajusta fielmente a las disposiciones constitucionales. La decisión de disolver el Congreso fuera de los términos previstos por la Constitución sería una transgresión aparente; no obstante, el procedimiento adecuado para tratar tal acto es a través de los canales legales establecidos, como la vacancia por incapacidad moral o el antejuicio político. Tomar acciones fuera de estas vías podría contravenir el fuero presidencial y debilitar la estabilidad institucional que se pretende proteger con esta provisión.
+
+### Error en la Aplicación del Artículo 117 de la Constitución
+
+El Tribunal Constitucional, al validar la flagrancia, parece haber desatendido las especificaciones del artículo 117 de la Constitución. Dado que las acciones del 7 de diciembre no encajan claramente en las causales que justifiquen una acusación contra el Presidente, una actuación contraria podría considerarse una extralimitación de sus facultades interpretativas. La interpretación restrictiva de este artículo es fundamental para mantener la naturaleza excepcional de las acusaciones durante el mandato presidencial y evitar una potencial erosión de la inmunidad presidencial, acordada para proteger la continuidad y estabilidad de las funciones del jefe de Estado.
+
+### Falta de Proporcionalidad y Razonabilidad en la Estrategia Judicial
+
+La proporcionalidad y razonabilidad son principios esenciales del Estado de Derecho, consagrados en los artículos 200(2) y 230 de la Constitución peruana y respaldados por la jurisprudencia del Tribunal Constitucional. En este caso, la intervención judicial contra Castillo, incluyendo su detención, podría ser criticada por no haber mantenido un equilibrio entre la gravedad del acto y la medida tomada. Aun si el acto de disolver el Congreso fuera inconstitucional, la actuación sin respetar el debido proceso y el fuero presidencial podría haberse considerado desproporcionada y no razonable.
+
+El principio de proporcionalidad exige que las medidas adoptadas sean adecuadas, necesarias y proporcionadas en sentido estricto al fin perseguido. La intervención en este caso, basada en una interpretación amplia de la flagrancia y sin agotar los mecanismos constitucionalmente previstos, podría no cumplir estos requisitos, cuestionando su legitimidad y poniendo en riesgo la confianza en las instituciones judiciales.
+
+### Argumentos Legales en Defensa de Castillo: Inviolabilidad Presidencial
+
+La inviolabilidad presidencial debe interpretarse de manera estricta para asegurar que las funciones del presidente no se vean indebidamente interrumpidas. El artículo 117 establece protecciones claras para el presidente en ejercicio, y cualquier excepción a esta norma debe constreñirse a lo expresamente establecido. La actuación del Tribunal al considerar la flagrancia como una causal suficiente para procesar al presidente, podría desconocer la intención original del constituyente de otorgar una elevada protección al cargo presidencial. Esto también podría minar la estabilidad institucional que la invulnerabilidad busca garantizar.
+
+### Procedimientos de Vacancia y Antejuicio
+
+Los procedimientos de vacancia por incapacidad moral y el antejuicio político están diseñados para asegurar un equilibrio entre el control político y la estabilidad del cargo presidencial. De acuerdo con los artículos 113(2) y 114 de la Constitución peruana, estos procedimientos debían haberse aplicado rigurosamente y en consonancia con el debido proceso. La aplicación extensiva de los conceptos de flagrancia para justificar medidas fuera de estos procedimientos constitucionales podría ser una violación directa de las normas diseñadas para asegurar un proceso justo y equitativo, comprometido en el artículo 139 de la Constitución.
+
+### Derecho Internacional y Principios del Debido Proceso
+
+El Perú, como signatario de la Convención Americana sobre Derechos Humanos (art. 8) y el Pacto Internacional de Derechos Civiles y Políticos (art. 14), está obligado a asegurar el derecho al debido proceso y a proteger a los individuos de detenciones arbitrarias. Los actos contra Castillo pueden verse como una violación de estos compromisos si no se respetan estrictamente los procedimientos legales y se garantizan las protecciones procesales. Cualquier interpretación que atente contra la observancia de estos derechos fundamentales podría ser cuestionada en instancias internacionales, afectando la percepción del sistema judicial peruano en el ámbito internacional.
+
+### Interpretación Correcta de la Inmunidad Presidencial
+
+Una interpretación correcta y estricta del fuero presidencial garantizaría que las funciones y la estabilidad del cargo presidencial se mantengan intactas, permitiendo que cualquier acusación sea manejada conforme a los procedimientos constitucionales aplicables. Un cuidado extremo en la interpretación de las normas constitucionales es esencial para salvaguardar las protecciones institucionales diseñadas no solo para el presidente, sino para la preservación del orden democrático general y el Estado de derecho.
+
+### Procedimientos Democráticos y el Principio de Legalidad
+
+La preservación del principio de legalidad está en el núcleo de una gobernanza democrática efectiva. Cualquier acción contra el presidente debe adecuarse estrictamente a los procedimientos establecidos y sujetos al debido proceso, conforme a los artículos 138 y 139 de la Constitución. Aplicando rigurosamente los procedimientos de vacancia y antejuicio dentro del marco constitucional, se respeta el diseño legal y se fortalece la confianza en las instituciones democráticas.
+
+### 1. Introducción
+
+La controversia legal que enmarca el caso del ex presidente del Perú, José Pedro Castillo Terrones, surge a partir de los eventos del 7 de diciembre de 2022. Ese día, Castillo anunció la disolución del Congreso y la instauración de un estado de excepción, una medida drástica que inmediatamente provocó un rechazo casi unánime por parte de diversas instituciones, tanto a nivel nacional como internacional. Esta decisión, calificada por muchos como un intento de ruptura del orden constitucional, precipitó en su destitución y arresto subsecuente. El camino judicial tomado por las autoridades, y posteriormente avalado por el Tribunal Constitucional, ha generado significativas discusiones legales centradas en la interpretación y aplicación de la Constitución peruana, particularmente en lo que concierne al fuero presidencial y la flagrancia.
+
+### Presentación del caso y del demandante (José Pedro Castillo Terrones)
+
+Pedro Castillo, quien asumió la presidencia del Perú en julio de 2021, se encontraba en medio de múltiples controversias y enfrentamientos con el Congreso cuando hizo su controvertido anuncio. La decisión de disolver el Congreso, sin seguir los procedimientos constitucionales establecidos, parecía constituir una usurpación de las facultades legalmente definidas para el Poder Ejecutivo. Según el Artículo 134 de la Constitución Política del Perú, el presidente puede disolver el Congreso solo si este ha censurado o negado su confianza a dos Consejos de Ministros. Las acciones de Castillo, al no estar alineadas con estos requisitos, fueron vistas como un abuso de poder.
+
+### Descripción de la decisión del Tribunal Constitucional y la necesidad de impugnar dicha decisión
+
+El Tribunal Constitucional, al analizar la legalidad de la detención y destitución de Castillo, adoptó una postura que ha sido fuertemente criticada por varios juristas y expertos en derecho constitucional. Justificó la detención inmediata de Castillo bajo el concepto de flagrancia. Esta doctrina, según el Artículo 259 del Código Procesal Penal peruano, permite la detención de una persona en el acto delictivo o inmediatamente después de haber cometido un delito. Sin embargo, la aplicación de esta figura al contexto de las acciones de Castillo ha sido cuestionada debido a la falta de una correspondencia clara y directa con los requisitos de flagrancia descritos en la ley.
+
+En el contexto del fuero presidencial, el Artículo 117 de la Constitución Política del Perú es explícito al establecer que el presidente solo puede ser acusado durante su mandato por cuatro causales específicas: (i) traición a la patria; (ii) impedir elecciones presidenciales, parlamentarias, regionales o municipales; (iii) disolver el Congreso, salvo en los casos previstos por la Constitución; (iv) impedir su reunión o funcionamiento, o los del Jurado Nacional de Elecciones y otros organismos del sistema electoral. Los críticos argumentan que las acciones de Castillo, aunque graves, debieron haberse tratado conforme a los procedimientos de acusación prescritos por la Constitución y no mediante la determinación de flagrancia.
+
+La postura del Tribunal Constitucional al validar la flagrancia y consecuentemente la detención de Castillo, además de ignorar el fuero presidencial, compromete el principio de legalidad y el debido proceso. El principio de legalidad, consagrado en el Artículo 2(24)(d) de la Constitución peruana y apoyado por jurisprudencia internacional como la del caso "Velásquez Rodríguez vs. Honduras" [1988] 4 Inter-Am C.H.R. (Ser. C) No. 4 (1988), establece que nadie puede ser detenido arbitrariamente y que toda detención debe seguir procedimientos estrictamente delineados por la ley.
+
+La crítica central hacia esta decisión radica en la naturaleza rigorista con la que debe abordarse cualquier situación que involucre la inmunidad presidencial. La jurisprudencia del Tribunal Constitucional ha sostenido en casos anteriores, como en el EXP. N.º 0006-2003-AI/TC, que las disposiciones que limitan o excluyen la acusación presidencial durante el mandato deben interpretarse restrictivamente, evitando extender su alcance más allá de lo estrictamente necesario. La interpretación amplia de flagrancia aplicada a Castillo diluye la protección constitucional, creando un peligroso precedente que podría facilitar futuras interrupciones injustificadas del mandato presidencial, atentando contra la estabilidad institucional y el diseño democrático.
+
+La defensa de Pedro Castillo consideró que la acción judicial tomada en su caso no se adecuó a los procedimientos establecidos ni respetó su inmunidad constitucional. Citar los procedimientos de vacancia del artículo 113 y el antejuicio del artículo 100 es necesario para un tratamiento balanceado y justo a las responsabilidades presidenciales. La destitución mediante procedimientos de urgencia por flagrancia evade el meticuloso equilibrio que el constituyente previó para situaciones de crisis, desmereciendo el papel del debido proceso y la protección jurisdiccional adecuada.
+
+Es indispensable impugnar la decisión del Tribunal Constitucional y reexaminar el tratamiento dado al fuero presidencial y a la flagrancia en este contexto, a fin de asegurar que el tratamiento jurídico siga las líneas estrictamente establecidas por la Constitución peruana y los principios internacionales de derechos humanos, protegiendo de este modo no solo la figura presidencial, sino la integridad misma del Estado de Derecho y la gobernabilidad democrática.
+
+### 2. Contexto Histórico-Político
+
+#### Breve resumen de los hechos del 7 de diciembre de 2022
+
+##### Contexto político de Perú y el papel de Castillo como Presidente
+
+El 7 de diciembre de 2022 marcó un acontecimiento crítico en la historia política reciente del Perú. Pedro Castillo Terrones, quien había asumido la presidencia el 28 de julio de 2021, se encontraba en una situación de alta tensión política y enfrentamiento constante con el Congreso de la República. Desde su ascenso al poder, Castillo, un maestro de escuela rural y líder sindical, había centrado su mandato en un discurso orientado hacia la justicia social y la inclusión de sectores históricamente marginados. Sin embargo, su administración pronto se vio envuelta en una serie de crisis políticas y controversias que minaron su capacidad de gobernar. Es importante recordar que el ambiente político peruano ha estado caracterizado por una profunda polarización y desconfianza entre el Ejecutivo y el Legislativo, una situación que se agravó durante la presidencia de Castillo.
+
+Las fricciones con el Congreso, dominado por una oposición que veía con recelo su gobierno, llevaron a múltiples enfrentamientos y bloqueos legislativos. Esta coyuntura se desarrolló en un contexto de inestabilidad política recurrente, donde los intentos de vacancia presidencial por incapacidad moral permanente se convirtieron en una herramienta política recurrente. En efecto, la figura de la vacancia presidencial está prevista en el artículo 113 de la Constitución Política del Perú, que establece entre sus causales la incapacidad moral permanente del presidente. La oposición en el Congreso, utilizando esta figura, intentó en varias ocasiones sin éxito destituir a Castillo, alegando diversos motivos, entre los cuales se encontraban presuntas irregularidades y actos de corrupción.
+
+##### Detalles del mensaje a la Nación de Castillo el 7 de diciembre de 2022
+
+En este contexto, el 7 de diciembre de 2022, Pedro Castillo dirigió un mensaje a la Nación en el cual anunció la disolución del Congreso de la República y la instauración de un estado de excepción. Castillo justificó su decisión alegando una obstrucción sistemática por parte del Legislativo, que, según él, impedía la gobernabilidad y la implementación de políticas en favor del pueblo peruano. Los detalles exactos de su mensaje incluyeron la disolución del Congreso y el establecimiento de un gobierno de emergencia nacional que gobernaría por decreto, además de la reorganización del Poder Judicial, Ministerio Público, Tribunal Constitucional y otros organismos autónomos.
+
+La medida anunciada por Castillo fue inmediatamente vista por muchos sectores como un intento ilegítimo de perpetuarse en el poder y una ruptura del orden constitucional establecido. Conforme a la doctrina constitucional peruana, el presidente sólo puede disolver el Congreso bajo circunstancias muy específicas, como lo estipula el artículo 134 de la Constitución, el cual permite la disolución del Congreso si este ha censurado o negado su confianza a dos Consejos de Ministros. Sin embargo, en el caso de Castillo, ninguna de estas condiciones se cumplió en el acto cuestionado del 7 de diciembre, lo que levantó dudas sobre la legitimidad de su decisión y sus verdaderas intenciones.
+
+La respuesta institucional y social no se hizo esperar. Diversas instituciones, incluidas las Fuerzas Armadas y la Policía Nacional, rechazaron el mensaje y la orden dada por Castillo, calificándola de inconstitucional. El Congreso, en una rápida reacción, procedió a reunirse y votar la vacancia presidencial por incapacidad moral permanente. En una votación que alcanzó la mayoría requerida, se declaró la vacancia de Castillo, y este fue arrestado inmediatamente bajo la figura de flagrancia delictiva, conforme al artículo 259 del Código Procesal Penal. Ese mismo día, la vicepresidenta Dina Boluarte asumió la presidencia de la República, de acuerdo con la línea de sucesión establecida en el artículo 115 de la Constitución.
+
+La decisión del Tribunal Constitucional de validar la flagrancia delictiva en el caso de Castillo ha sido objeto de amplio debate y cuestionamiento. El artículo 117 de la Constitución establece que el presidente solo puede ser acusado durante su mandato por cuatro causales específicas: (i) traición a la patria; (ii) impedir elecciones presidenciales, parlamentarias, regionales o municipales; (iii) disolver el Congreso, salvo en los casos previstos en la Constitución; y (iv) impedir su reunión o funcionamiento, o los del Jurado Nacional de Elecciones y otros organismos del sistema electoral. La flagrancia aplicada a Castillo no se alineó con estas disposiciones, según críticos, violando de este modo la norma constitucional y los principios del debido proceso establecidos tanto a nivel nacional como internacional.
+
+En conclusión, el análisis de estos eventos lleva a cuestionar si las acciones contra Castillo respetaron las directrices constitucionales y garantizaban la imparcialidad y legalidad que un procedimiento de tal gravedad demanda. Esta interpretación resumida del 7 de diciembre de 2022 es esencial para comprender la controversia legal y política que siguió y los argumentos presentados tanto a favor como en contra de la actuación del Tribunal Constitucional del Perú.
+
+### 3. Argumentos Principales en Contra de la Decisión del Tribunal Constitucional
+
+#### Fallos en la Determinación de Flagrancia
+
+**Definición de flagrancia según la ley peruana**
+
+El Código Procesal Penal peruano, en su artículo 259, establece que la flagrancia delictiva se configura cuando el autor es sorprendido en el momento de cometer el delito, inmediatamente después de cometerlo o cuando se le persigue e inmediatamente se encuentran objetos o pruebas que demuestren sin lugar a dudas su participación en el hecho delictivo. Esta norma exige una inmediatez y certeza que no admite interpretaciones amplias, ya que tiene como finalidad garantizar que la actuación de la autoridad se ajuste estrictamente a un marco de legalidad específico y no se transforme en un mecanismo arbitrario.
+
+**Argumentos por los cuales la detención de Castillo no cumple con los preceptos legales de flagrancia**
+
+La figura de flagrancia invocada para justificar la detención inmediata del Presidente Castillo presenta serios problemas de aplicación en este contexto. En primer lugar, las acciones tomadas por Castillo, aunque controversiales y potencialmente inconstitucionales, no encajan perfectamente en ninguna de las nociones de flagrancia delineadas en el artículo 259 del Código Procesal Penal. El anuncio de la disolución del Congreso y la instauración de un estado de excepción fue un acto de gobierno, debatiblemente ilegítimo, pero no una acción típica en la cual una persona es capturada in fraganti cometiendo una infracción penal.
+
+Además, la flagrancia exige que la comisión del delito sea evidente y que la aprehensión ocurra en el mismo momento o inmediatamente después del hecho delictivo. Sin embargo, en el caso de Castillo, aunque la disposición de disolver el Congreso ocurrió de forma pública, no se puede afirmar que existió un acto delictivo en curso que cumpliera con los estrictos parámetros de flagrancia. En lugar de ello, parece más una disputa sobre la interpretación de los límites de los poderes ejecutivos en el marco constitucional, lo que debería resolverse mediante procedimientos legales apropiados y no a través de arrestos sumarios.
+
+La jurisprudencia del Tribunal Constitucional peruano también apoya esta posición. En el expediente N.º 05036-2014-PA/TC, el Tribunal indicó que la flagrancia delictiva debe ser comprobada de manera objetiva e irrefutable para evitar abusos de poder. Aplicar una interpretación expansiva, como en el caso de Castillo, contraviene este principio y abre la puerta a potenciales violaciones de los derechos fundamentales.
+
+#### Protección Constitucional y el Fuero Presidencial
+
+**Interpretación correcta del Artículo 117 de la Constitución peruana**
+
+El artículo 117 de la Constitución Política del Perú establece un sistema de inmunidad para el Presidente de la República, protegiéndolo de acusaciones durante su mandato, con la excepción de cuatro causales específicas: traición a la patria; impedir elecciones; disolver el Congreso fuera de los términos previstos en la Constitución; e impedir la reunión o funcionamiento del Congreso o del Jurado Nacional de Elecciones. Esta disposición tiene como finalidad preservar la estabilidad del poder ejecutivo y asegurar que el presidente pueda desempeñar sus funciones sin ser indebidamente perturbado por acusaciones políticas.
+
+La interpretación correcta de este artículo debe ser restrictiva, garantizando así que la inmunidad presidencial no sea comprometida salvo en los casos específicos expresamente mencionados por la Constitución. En el caso de Pedro Castillo, aunque su intento de disolver el Congreso en violación de los preceptos constitucionales podría teóricamente constituir una causal para su acusación, cualquier acción en consecuencia debía seguir los procedimientos establecidos en la misma Constitución, como el antejuicio político o el proceso de vacancia por incapacidad moral.
+
+**Análisis de jurisprudencias y precedentes incluidos en la Constitución**
+
+La jurisprudencia constitucional ha reforzado la necesidad de una interpretación restrictiva de las excepciones a la inmunidad presidencial. En el caso EXP. N.º 0006-2003-AI/TC, el Tribunal Constitucional subrayó que las disposiciones que limitan la inmunidad presidencial deben interpretarse de manera restrictiva, evitando ampliaciones que puedan debilitar la protección que este principio ofrece. Asimismo, en el EXP. N.º 4083-2002-AA/TC, el Tribunal reforzó la necesidad de actuar con absoluta legalidad y proporcionalidad en cualquier incidente que involucre a un alto funcionario del Estado, reiterando la importancia del debido proceso.
+
+**El impacto de la protección constitucional en la detención y enjuiciamiento de Castillo**
+
+La protección constitucional del fuero presidencial impacta significativamente en la interpretación de los eventos del 7 de diciembre de 2022. Actuar fuera de los cauces expresamente contemplados en la Constitución para tratar con supuestas infracciones por parte del presidente no solo compromete el principio de legalidad, consagrado en el artículo 2(24)(d) de la Constitución, sino también debilita la confianza en las instituciones democráticas peruanas. La inviolabilidad del presidente es un pilar que asegura el normal funcionamiento del ejecutivo, permitiendo que el control político se ejerza a través de procedimientos establecidos y no por intervenciones judiciales arbitrarias.
+
+En conclusión, la decisión del Tribunal Constitucional al validar la flagrancia y la consecuente detención de Pedro Castillo se presenta contraria a los preceptos legales y constitucionales que rigen el Estado de Derecho en el Perú. La aplicación expansiva y no fundamentada de la figura de flagrancia, junto con la violación del fuero presidencial, no respeta los principios básicos de certeza jurídica y debido proceso. Es esencial retomar una interpretación estricta y minuciosa de las normas constitucionales para proteger no solo la figura presidencial, sino la estabilidad y legitimidad de las instituciones peruanas.
+
+### 4. Críticas Específicas a los Fundamentos del Tribunal Constitucional
+
+**Error en la Aplicación del Artículo 117 de la Constitución**
+
+El Tribunal Constitucional cometió un error fundamental en la interpretación y aplicación del artículo 117 de la Constitución Política del Perú al evaluar el caso del ex presidente Pedro Castillo. Este artículo establece que el Presidente de la República solo puede ser acusado durante su mandato por cuatro causales específicas: traición a la patria; impedir elecciones presidenciales, parlamentarias, regionales o municipales; disolver el Congreso fuera de los términos previstos por la Constitución; e impedir la reunión o funcionamiento del Congreso o del Jurado Nacional de Elecciones.
+
+El Tribunal, al validar la flagrancia en el caso de Castillo, ignoró la interpretación restrictiva que debe dársele a las excepciones a la inmunidad presidencial. La doctrina constitucional y la jurisprudencia previa del Tribunal, como se observa en el EXP. N.º 0006-2003-AI/TC, dictan que las disposiciones que limitan la protección presidencial deben interpretarse de manera limitada para evitar el abuso y garantizar la estabilidad del cargo presidencial. El Tribunal, al considerar la flagrancia como una causal suficiente para la detención de Castillo, se extralimitó en su interpretación del artículo 117, desconociendo su naturaleza como una norma de excepción y no de regla. Este fallo va en contra del principio de legalidad y la protección reforzada que la Constitución otorga al Presidente en ejercicio, una protección necesaria para asegurar la estabilidad institucional y la independencia del Poder Ejecutivo.
+
+**Falta de Proporcionalidad y Razonabilidad en la Estrategia Judicial**
+
+El principio de proporcionalidad y razonabilidad en la actuación judicial es un pilar del Estado de Derecho, consagrado en la Constitución peruana (Artículos 2(24)(d) y 139(3)). En el caso de Pedro Castillo, la estrategia empleada por las autoridades judiciales—y avalada posteriormente por el Tribunal Constitucional—incurrió en fallos graves respecto a estos principios.
+
+La proporcionalidad exige que cualquier medida tomada por el Estado, especialmente en contextos de detención y procesamiento penal, sea adecuada, necesaria y proporcionada al fin perseguido. La detención inmediata de Castillo bajo la supuesta flagrancia de un delito de disolución ilegal del Congreso no se ajusta a estos parámetros. El acto de anunciar una disolución del Congreso es inherentemente más complejo y ambiguo que la comisión de delitos ordinarios, lo cual dificulta su encaje en la figura de flagrancia que requiere inmediatez y evidencia directa e irrefutable de la comisión del delito.
+
+Asimismo, la razonabilidad en la intervención judicial implica que las decisiones deben ser tomadas con una lógica consistente y equilibrada, considerando plenamente las circunstancias y el contexto específicos. En lugar de proceder con los mecanismos constitucionales establecidos, como el antejuicio o la vacancia por incapacidad moral, se optó por una intervención sumaria, basada en una interpretación expansiva del concepto de flagrancia. Este enfoque contrasta con la necesidad de preservar el fuero presidencial y los debidos procesos, establecidos para proteger la gobernabilidad y la institucionalidad. El fallo del Tribunal en este contexto fue claramente desproporcionado y carente de la razonabilidad necesaria para una actuación judicial justificada y legítima.
+
+**Comparación con otros casos**
+
+A nivel del derecho peruano, la proporcionalidad y razonabilidad en la intervención judicial ha sido discutida en varios casos emblemáticos. Por ejemplo, en el caso "Álvarez Calderón" (EXP. N.º 05036-2014-PA/TC), el Tribunal Constitucional subrayó la necesidad de que las decisiones judiciales relacionadas con la detención se basen en pruebas claras y contundentes que justifiquen la privación de libertad. Este criterio exige un análisis riguroso y comprobado, lo cual no se observó en el tratamiento del caso de Pedro Castillo.
+
+Comparado con precedentes internacionales, la jurisprudencia de la Corte Interamericana de Derechos Humanos (CIDH), en situaciones similares, también insiste en la necesidad de proporcionalidad y debido proceso. En el caso "Baena Ricardo y otros vs. Panamá" (Corte IDH, Sentencia del 2 de febrero de 2001), la Corte indicó que las medidas que afectan derechos humanos deben ser necesarias y proporcionadas a los fines legítimos perseguidos, lo cual no se respetó adecuadamente en el arresto y procesamiento inmediato de Castillo bajo la interpretación expansiva de flagrancia.
+
+### 5. Argumentos Legales en Defensa de Castillo
+
+**Derecho Peruano**
+
+**Inviolabilidad Presidencial**
+
+La inviolabilidad presidencial en la Constitución peruana se fundamenta en la necesidad de asegurar la estabilidad del Poder Ejecutivo, permitiendo que el Presidente de la República ejerza sus funciones sin temores de persecuciones arbitrarias o de motivaciones políticas. Este principio se aplica de manera estricta, limitando las excepciones a las protegidas específicas delineadas en el Artículo 117. La inviolabilidad presidencial no es un escudo para la impunidad, sino una garantía de que las funciones del más alto cargo del Estado puedan desarrollarse adecuadamente dentro del marco de Derecho. En el caso de Castillo, la detención inmediata sin seguir el proceso debido correspondiente vulneró flagrantemente la protección constitucional de la inviolabilidad presidencial.
+
+**Procedimientos de Vacancia y Antejuicio**
+
+La Constitución del Perú establece procedimientos claros y específicos para tratar con un Presidente que pueda haber actuado fuera de los límites de sus poderes constitucionales. Los procedimientos de vacancia por incapacidad moral y el antejuicio político están delineados en los artículos 113 y 100, respectivamente, y brindan un marco estructurado dentro del cual se deben manejar tales situaciones. En el caso de Castillo, estos procedimientos no se respetaron adecuadamente. La vacancia del Presidente por incapacidad moral requiere seguir un proceso de deliberación y votación en el Congreso, un proceso diseñado para asegurar que tales decisiones se tomen basándose en un análisis riguroso y justificado.
+
+El Tribunal Constitucional, en lugar de validar una actuación sumaria basada en una supuesta flagrancia, debía haber insistido en la aplicación rigurosa de los procesos establecidos constitucionalmente, asegurando así el Estado de Derecho y el respeto a las garantías procesales. El seguimiento de los procedimientos de vacancia y antejuicio es esencial para mantener el equilibrio entre el control del Poder Ejecutivo y la protección de la gobernabilidad democrática.
+
+**Derecho Internacional**
+
+**Instrumentos Internacionales de Derechos Humanos**
+
+El Perú es signatario de diversos instrumentos internacionales de derechos humanos, entre los cuales destacan la Convención Americana sobre Derechos Humanos (Pacto de San José) y el Pacto Internacional de Derechos Civiles y Políticos. Ambos tratados aseguran la protección contra detenciones arbitrarias y la garantía del debido proceso. En el caso de Castillo, la detención inmediata, basada en una interpretación ampliada de flagrancia y sin el respaldo de un procedimiento judicial adecuado, contraviene directamente las obligaciones internacionales asumidas por el Perú.
+
+La Corte Interamericana de Derechos Humanos, en múltiples fallos como "Velásquez Rodríguez vs. Honduras" (1988), ha sostenido que el debido proceso implica no solo el respeto a las normas sustantivas y procedimentales establecidas, sino también la observancia estricta de derechos fundamentales, incluyendo el derecho a ser tratado con dignidad y justicia.
+
+**Principios de Debido Proceso**
+
+El principio de debido proceso es una piedra angular de la justicia y una garantía fundamental en cualquier sistema democrático. Este principio asegura que toda persona tenga derecho a un juicio justo, equitativo y a través de procedimientos previamente establecidos y públicos. En el caso de Castillo, la falta de respeto a procedimientos judiciales específicos, como la invalidación del fuero presidencial y la detención bajo la amplia interpretación de flagrancia, denota una grave transgresión de estos principios.
+
+De acuerdo con el artículo 8 de la Convención Americana sobre Derechos Humanos y el artículo 14 del Pacto Internacional de Derechos Civiles y Políticos, los procedimientos deben ser justos, respetuosos del derecho a la defensa y seguir un proceso formalizado y conocido. La falta de estas garantías en el procesamiento de Castillo es evidente y pone en riesgo la integridad del principio de debido proceso, no solo en el contexto nacional, sino también en el cumplimiento de las obligaciones internacionales del Perú.
+
+La propuesta de impugnar la decisión del Tribunal Constitucional y defender los principios de la inviolabilidad presidencial y el debido proceso dentro y fuera del contexto constitucional peruano, es fundamental para mantener la institucionalidad y la legitimidad del sistema democrático en el Perú.
+
+### 6. Propuesta de Interpretación Alternativa
+
+#### Interpretación Correcta de la Inmunidad Presidencial
+
+La inmunidad presidencial, tal como se establece en el artículo 117 de la Constitución Política del Perú, debe interpretarse de manera estricta para proteger el ejercicio legítimo de las funciones presidenciales y asegurar la estabilidad del Ejecutivo. Esta disposición constitucional otorga al presidente una protección particular frente a acusaciones durante su mandato, limitándolas exclusivamente a cuatro causales precisas: (i) traición a la patria, (ii) impedir elecciones presidenciales, parlamentarias, regionales o municipales, (iii) disolver el Congreso fuera de los términos previstos en la Constitución, e (iv) impedir la reunión o funcionamiento del Congreso o del Jurado Nacional de Elecciones.
+
+La doctrina constitucional y la jurisprudencia previa del Tribunal Constitucional refuerzan la necesidad de una interpretación restrictiva de estas causales. En el expediente N.º 0006-2003-AI/TC, el Tribunal indicó que las disposiciones que limitan la inmunidad presidencial deben interpretarse con un enfoque estricto para evitar la erosión de la protección conferida al mandatario. Este principio de interpretación está en consonancia con la necesidad de preservar la estabilidad gubernamental y garantizar que el Presidente de la República pueda desempeñar sus funciones sin interferencias indebidas.
+
+En el caso del ex presidente Pedro Castillo, su intento de disolver el Congreso, aunque potencialmente inconstitucional, debería haber sido objeto de consideración bajo los procedimientos constitucionales establecidos, tales como el antejuicio político o la vacancia por incapacidad moral, conforme a los artículos 100 y 113 de la Constitución, respectivamente. La procedencia de estos mecanismos asegura un control político y jurídico adecuado sin comprometer indebidamente la inmunidad presidencial.
+
+El Tribunal Constitucional, al validar la flagrancia como fundamento para la detención de Castillo, ignoró la necesidad de una interpretación restrictiva del artículo 117. Este fallo no solo contraviene la jurisprudencia establecida, sino que también pone en riesgo la estabilidad institucional y sienta un peligroso precedente de intervención judicial arbitraria. La interpretación correcta del fuero presidencial debe enfocarse en mantener las garantías constitucionales diseñadas para asegurar que cualquier acusación contra el presidente sea manejada dentro de los estrictos canales legales establecidos, evitando así la erosión de la protección institucional y respetando simultáneamente los derechos fundamentales del gobernante.
+
+#### Procedimientos Democráticos y el Principio de Legalidad
+
+Los procedimientos de vacancia y antejuicio político están delineados en la Constitución peruana para equilibrar el control del Poder Ejecutivo con la protección de la estabilidad gubernamental. El artículo 113 establece que el Congreso puede declarar la vacancia de la presidencia por incapacidad moral permanente, entre otras causales. Este procedimiento requiere un consenso y una votación calificada, asegurando que la destitución presidencial sea el resultado de un proceso deliberativo y justificado. De igual forma, el artículo 100 establece el antejuicio político para altos funcionarios, incluidos el presidente, cuando se les atribuya la comisión de delitos durante el ejercicio de sus funciones.
+
+Estos procedimientos existen para mediar entre la necesidad de control y la protección de la función presidencial. Saltar estos mecanismos para aplicar una figura de flagrancia de manera amplia y no fundamentada, tal como ocurrió en el caso de Castillo, vulnera el principio de legalidad y el debido proceso. La actuación judicial debe enmarcarse dentro del respeto a los procedimientos legales establecidos para garantizar la justicia y la equidad en el tratamiento de cualquier funcionario público, especialmente el presidente.
+
+El principio de legalidad, consagrado en el artículo 2(24)(d) de la Constitución peruana, exige que toda acción del Estado se base en normas previamente establecidas y claras. Este principio, junto con el debido proceso, asegura que los derechos y libertades de las personas sean respetados y que cualquier actuación estatal se realice dentro del ámbito de la ley. En este sentido, la intervención judicial contra Pedro Castillo, sin agotamiento de los procedimientos democráticos de vacancia y antejuicio político, contravino directamente estos principios, poniendo en riesgo la integridad del Estado de Derecho.
+
+La jurisprudencia internacional también apoya esta necesidad. En la sentencia de la Corte Interamericana de Derechos Humanos en el caso "Baena Ricardo y otros vs. Panamá", se estableció que el debido proceso incluye el cumplimiento riguroso de procedimientos formales y previamente conocidos. La falta de observancia estricta de los procedimientos legales en el caso de Castillo denota una transgresión a los estándares nacionales e internacionales de justicia y legalidad.
+
+Por lo tanto, la aplicación adecuada de los procedimientos de vacancia y antejuicio hubiera asegurado un análisis riguroso y equilibrado del caso, respetando la inmunidad presidencial y las garantías procesales del ex mandatario. Esto no solo fortalecería la democracia y la gobernabilidad en el Perú, sino también la confianza de los ciudadanos en sus instituciones judiciales y políticas. Adoptar esta interpretación alternativa preserva el principio de legalidad y asegura que la intervención judicial se realice de manera proporcional, razonable, y en estricto apego a las normas constitucionales.
+
+### 7. Conclusión y Solicitudes
+
+#### Resumen de los puntos críticos contra la decisión del Tribunal Constitucional
+
+La decisión del Tribunal Constitucional que validó la detención del ex presidente Pedro Castillo el 7 de diciembre de 2022, basado en la figura de flagrancia, presenta numerosos problemas legales que merecen un análisis detallado y crítico. Primero, la decisión parece contradecir el principio de legalidad y el debido proceso, según los cuales toda acción del poder estatal debe estar fundada en normas previamente establecidas y respetar las garantías procesales. El Tribunal aplicó una interpretación amplia de la figura de flagrancia que excede los límites normativos del artículo 259 del Código Procesal Penal. Esta interpretación expansiva no se alinea con la jurisprudencia establecida, como en el caso EXP. N.º 05036-2014-PA/TC, donde se subrayó la necesidad de pruebas claras y contundentes para justificar la flagrancia.
+
+Además, el Tribunal ignoró la especial protección constitucional otorgada al presidente por el artículo 117 de la Constitución Política del Perú. Esta disposición establece que el presidente sólo puede ser acusado durante su mandato por cuatro causales específicas, requiriendo una interpretación restrictiva, como se ha reafirmado en diversos precedentes legales. El artículo 117 no permite la acusación por ninguna otra causal, y cualquier interpretación que intente expandir sus límites contraviene la protección de la inviolabilidad presidencial, diseñada para garantizar la estabilidad del poder ejecutivo.
+
+Por otro lado, el procedimiento de detención no respetó los principios de proporcionalidad y razonabilidad, pilares fundamentales del Estado de Derecho consagrados en la Constitución peruana y en la jurisprudencia de la Corte Interamericana de Derechos Humanos, como se observó en el caso "Baena Ricardo y otros vs. Panamá." La medida adoptada no fue adecuada ni necesaria, y su desproporción es evidente al no respetar los procedimientos constitucionales establecidos para la vacancia y el antejuicio político. Estos procedimientos son esenciales para asegurar un control políticamente equilibrado y legalmente sustentado del poder ejecutivo.
+
+En conclusión, la intervención judicial basada en una interpretación amplia de la flagrancia, desatendiendo el fuero presidencial y sin agotar los mecanismos constitucionales previstos, no se alinea con los principios de legalidad, proporcionalidad y debido proceso. Esto mina la confianza en el sistema judicial y en las instituciones democráticas del Perú.
+
+#### Solicitudes finales
+
+**Declarar nula la detención de Castillo**
+
+Sobre la base de los argumentos precedentemente esgrimidos, se solicita que se declare nula la detención de Pedro Castillo. Esta detención, fundamentada en una interpretación excesiva del concepto de flagrancia, vulnera los principios constitucionales y procesales que rigen el Estado de Derecho en el Perú. La flagrancia invocada no cumple con los requisitos de inmediatez y evidencia directa establecidos en el artículo 259 del Código Procesal Penal y va en contra de la protección que proporciona el artículo 117 de la Constitución. Además, esta actuación judicial no observó los principios de proporcionalidad y razonabilidad, esenciales para la legitimidad de cualquier acción estatal.
+
+**Restituir los derechos y garantías constitucionales de Castillo**
+
+Se insta a que se restituyan los derechos y garantías constitucionales de Pedro Castillo, otorgándole el debido respeto a su fuero presidencial y asegurando que cualquier proceso en su contra se realice conforme a los procedimientos legales y constitucionales establecidos. La violación de estos derechos no sólo afecta a la persona de Castillo, sino que también erosiona la confianza pública en la imparcialidad y la justicia del sistema legal peruano. Es esencial que se respeten las garantías de inviolabilidad presidencial y los debidos procedimientos para asegurar la integridad del cargo y la estabilidad de las instituciones democráticas.
+
+**Instar a reformar y clarificar los procedimientos de vacancia y antejuicio en el marco constitucional peruano**
+
+Finalmente, se solicita una reforma y clarificación de los procedimientos de vacancia y antejuicio político en el marco constitucional peruano. La necesidad de reformas es evidente para evitar futuras controversias y asegurar que los procedimientos sean claros, justos y acordes con los principios de legalidad y debido proceso. Estas reformas deben orientarse a fortalecer las previsiones constitucionales y garantizar que las intervenciones contra el presidente y otros altos funcionarios se realicen mediante mecanismos legales adecuados y respetuosos de sus derechos fundamentales. Asegurar la claridad y eficacia de estos procedimientos contribuirá a la estabilidad política y a la confianza en las instituciones democráticas del Perú.
+
+Este análisis exhaustivo demuestra la necesidad de revisar y rectificar las actuaciones del Tribunal Constitucional para garantizar que el derecho y las garantías constitucionales se apliquen correctamente, protegiendo así los principios fundamentales del Estado de Derecho y la democracia en el Perú.

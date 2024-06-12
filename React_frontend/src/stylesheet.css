@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Helvetica World';
+    src: url('HelveticaWorld-Bold.eot');
+    src: local('Helvetica World Bold'), local('HelveticaWorld-Bold'),
+        url('HelveticaWorld-Bold.eot?#iefix') format('embedded-opentype'),
+        url('HelveticaWorld-Bold.woff2') format('woff2'),
+        url('HelveticaWorld-Bold.woff') format('woff'),
+        url('HelveticaWorld-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica World';
+    src: url('HelveticaWorld-BoldItalic.eot');
+    src: local('Helvetica World Bold Italic'), local('HelveticaWorld-BoldItalic'),
+        url('HelveticaWorld-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('HelveticaWorld-BoldItalic.woff2') format('woff2'),
+        url('HelveticaWorld-BoldItalic.woff') format('woff'),
+        url('HelveticaWorld-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica World';
+    src: url('HelveticaWorld-Italic.eot');
+    src: local('Helvetica World Italic'), local('HelveticaWorld-Italic'),
+        url('HelveticaWorld-Italic.eot?#iefix') format('embedded-opentype'),
+        url('HelveticaWorld-Italic.woff2') format('woff2'),
+        url('HelveticaWorld-Italic.woff') format('woff'),
+        url('HelveticaWorld-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Helvetica World';
+    src: url('HelveticaWorld-Regular.eot');
+    src: local('Helvetica World'), local('HelveticaWorld-Regular'),
+        url('HelveticaWorld-Regular.eot?#iefix') format('embedded-opentype'),
+        url('HelveticaWorld-Regular.woff2') format('woff2'),
+        url('HelveticaWorld-Regular.woff') format('woff'),
+        url('HelveticaWorld-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

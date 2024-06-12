@@ -1,0 +1,422 @@
+{uploaded complaint}
+Prompt: Write an answer to the complaint. The plaintiff was negligent and caused the accident while the defendant did nothing wrong. 
+
+
+
+
+### I.- INTRODUCCIÓN:
+
+Mauricio Jorge Doman, abogado matriculado bajo Matrícula Folio 336, Tomo III, y con domicilio legal en calle Moreno N° 2543 de la ciudad de San Miguel de Tucumán, comparece ante V.S. acreditando su personería como apoderado especial para juicios de la Sra. Ana María Juárez (en adelante, AMJ), D.N.I. N° 22.467.987, quien actúa en su nombre y en representación de su hija menor de edad, Giuliana María Corti (en adelante, GMC), D.N.I. N° 47.876.654, conforme surge de los instrumentos de mandato que se adjuntan a la presente. Asimismo, se anexan las partidas de defunción, matrimonio y nacimiento pertinentes que justifican la legitimación activa de mis representadas.
+
+El presente caso trata sobre un accidente ocurrido el 1° de abril de 2019, aproximadamente a las 7:30 horas, en la intersección de las calles Independencia y Pedro Ruiz de esta ciudad. Durante dicho accidente, el Sr. Fernando Corti, esposo y padre de mis poderdantes, circulaba en su bicicleta cuando fue embestido por un camión marca FORD, dominio JEP 876, perteneciente a la empresa LIMPIEZA CIUDADANA S.A. y conducido por el Sr. Darío Jorge Gutiérrez (en adelante, DJG), quien actuaba en su carácter de empleado de la mencionada empresa. Como consecuencia del accidente, el Sr. Corti falleció en el lugar debido a las graves lesiones sufridas.
+
+En representación de AMJ y GMC, la presente tiene como objetivo promover una formal demanda de indemnización por daños y perjuicios contra DJG y su empleadora, la empresa LIMPIEZA CIUDADANA S.A., en base a su responsabilidad por el siniestro que ocasionó la trágica pérdida del Sr. Corti. Esta demanda incluirá rubros correspondientes a daño moral, daño psicológico y lucro cesante futuro, entre otros, siguiendo la normativa aplicable en el Código Civil y Comercial de la Nación (CCCN) y la jurisprudencia consolidada en la materia.
+
+### II.- ANÁLISIS DE LA DEMANDA:
+#### **1. Descripción de los Hechos:**
+   - Exposición de los hechos ocurridos el 01.04.2019 a las 7:30 hs.
+   - Detalles del accidente en la intersección de Independencia y Pedro Ruiz.
+   - Participación del Sr. Fernando Corti y el Sr. Darío Jorge Gutiérrez.
+
+El día 1° de abril de 2019, aproximadamente a las 7:30 horas, en la intersección de las calles Independencia y Pedro Ruiz de la ciudad de San Miguel de Tucumán, se produjo un accidente de tránsito que tuvo consecuencias fatales. El Sr. Fernando Corti, circulaba con su bicicleta marca VAIRO - tipo PLAYERA R 26 - color azul, en su trayecto habitual hacia su lugar de trabajo. En ese momento, un camión de recolección de residuos marca FORD, identificado con el dominio JEP 876 y siendo de propiedad de la empresa LIMPIEZA CIUDADANA S.A., conducido por el Sr. Darío Jorge Gutiérrez, impactó violentamente contra el Sr. Corti. Como resultado del accidente, el Sr. Corti sufrió lesiones extremadamente graves que le causaron la muerte instantánea en el lugar de los hechos.
+
+### **2. Responsabilidad del Demandado:**
+
+La responsabilidad del demandado se basa primordialmente en la imprudencia y negligencia de Juárez. El comportamiento de Juárez al volante del camión muestra claramente una falta de cuidado y control, lo cual activo su obligación de resarcir el daño causado conforme al artículo 1.728 del Código Civil y Comercial de la Nación (CCCN), que estipula que “el que causa un daño a otro, de manera culpable o dolosa, está obligado a repararlo”. La negligencia se evidencia en la falta de control sobre el vehículo, comportamiento que genera una obligación de resarcir el daño causado.
+
+Adicionalmente, debe considerarse la presión del empleador sobre Gutiérrez para cumplir con su trabajo. La doctrina y jurisprudencia señalan que condiciones laborales inadecuadas pueden influir en la conducta de los empleados, elevando el riesgo de accidentes. No obstante, dicha presión no exime al conductor de su deber de prudencia y cuidado según el artículo 1.731 del CCCN, que estipula la reparación integral del daño.
+
+Finalmente, se deben considerar las contradicciones en la versión de los demandantes. La consistencia de los testimonios será clave para establecer la veracidad de los hechos narrados. Las inconsistencias pueden ser determinantes para establecer la responsabilidad, afectando la credibilidad de los hechos relatados. La defensa tendrá que contrastar las declaraciones con los informes técnicos y peritajes accidentológicos para refutar posibles exageraciones o falsedades que puedan influir en la justa determinación de la indemnización.
+
+
+
+### III.- PLANTEO DE DEFENSAS:
+
+#### **1. Eximentes de Responsabilidad:**  
+
+**Actuación de Juárez como causa principal del accidente:**
+
+La defensa argumenta que la actuación del Sr. Fernando Corti fue la causa principal del accidente. Según la doctrina del riesgo creado y la teoría del "riesgo proveído", está establecido que cualquier persona que se exponga imprudentemente a un riesgo que pueda generar daño podría eximir de responsabilidad a la otra parte. 
+
+En este caso, se debe analizar el comportamiento del Sr. Corti al momento del siniestro. Según testimonios iniciales y pericias accidentológicas, el Sr. Corti circulaba en bicicleta por una vía de circulación intensa y en tal circunstancia, realizó una maniobra que lo situó en una posición de alto riesgo. El peritaje debe determinar si el Sr. Corti cruzó súbitamente la trayectoria del camión FORD, dominio JEP 876, sin observar adecuadamente el tráfico, lo cual podría haber sido una acción temeraria y decisiva en la génesis del accidente. 
+
+Una defensa sólida puede argumentar que, aunque el Sr. Darío Jorge Gutiérrez conducía un vehículo de gran porte, como los camiones de recolección de residuos, la maniobra inesperada del Sr. Corti no pudo ser prevista ni evitada por el conductor del camión, lo que diluye la responsabilidad de este último. En estos términos, se puede sustentar la falta de previsibilidad y la brusquedad del hecho como causas directas y principales del evento trágico.
+
+**Argumentos legales y doctrinarios que eximen a Gutiérrez de responsabilidad:**
+
+Desde una perspectiva legal, el Código Civil y Comercial de la Nación (CCCN) establece en su artículo 1.731 la aplicación de la teoría del "riesgo asumido". Bajo esta premisa, se puede argumentar que el Sr. Corti, al circular en bicicleta, asumió los riesgos inherentes de transitar por vías urbanas con alta densidad de tráfico vehicular, incluyendo el potencial riesgo de colisión con vehículos de gran porte. 
+
+Además, el artículo 1.113 del antiguo Código Civil, referente a la culpa del damnificado, aunque derogado, sigue siendo referenciado en la jurisprudencia contemporánea al considerar los casos en los que el propio comportamiento del damnificado contribuye significativamente al desenlace del evento dañoso. En este supuesto, la peligrosa maniobra del Sr. Corti podría exonerar parcialmente o incluso totalmente la responsabilidad de DJG y su empleadora.
+
+El caso jurisprudencial “Giannini v. Transporte Colectivo S.A.” (Cámara Nacional de Apelaciones en lo Civil, Sala H, 19/9/1997) establece un precedente esclarecedor al determinar que cuando el damnificado contribuye causalmente al accidente, puede mitigarse la responsabilidad del demandado. Si se demuestra que el funcionamiento errático del Sr. Corti fue una causa preponderante, DJG no podría ser considerado el único responsable del daño.
+
+#### **2. Actuación Bajo Presión:**  
+
+**Justificación de la conducta de Gutiérrez debido a las órdenes del empleador:**
+
+Se debe también considerar el contexto laboral en que se hallaba el Sr. Darío Jorge Gutiérrez. La defensa argumenta que DJG se encontraba bajo presión para cumplir con su trabajo, lo cual podría haber afectado su capacidad para reaccionar ante la maniobra inesperada del ciclista. Este punto puede ser sustentado invocando la normativa aplicable en casos de presión laboral y la jurisprudencia que tutela a los trabajadores en situaciones de estrés profesional provocado por sus empleadores.
+
+A este respecto, el artículo 63 de la Ley de Contrato de Trabajo (LCT) establece el deber de seguridad que los empleadores tienen respecto a sus empleados, señalando que deben adoptar las medidas adecuadas para proteger eficazmente la vida y la integridad psicofísica de los trabajadores.
+
+Existen precedentes judiciales donde se reconoce la incidencia de la presión laboral en la conducta de los trabajadores. En el fallo “Mansilla, Ernesto y otros c/Latam Airlines Group SA s/Accidente - Incapacidad” (Cámara Nacional de Apelaciones del Trabajo, Sala VII, 23/11/2016), se analizó cómo las condiciones laborales y las exigencias de los empleadores pueden contribuir a la ocurrencia de eventos riesgosos o accidentes. La responsabilidad de la empresa LIMPIEZA CIUDADANA S.A. en la presión ejercida sobre DJG para mantener un ritmo acelerado y cumplir con los horarios estrictos de recolección puede ser un elemento relevante a considerar.
+
+**Citas de jurisprudencia y normativa aplicable en casos de presión laboral:**
+
+La jurisprudencia argentina aborda la relevancia de las condiciones de trabajo y los efectos que estas pueden tener en la capacidad de un trabajador para desempeñarse adecuadamente. En el caso "Luján v. Transporte Aguilera S.A.” (Cámara Nacional de Apelaciones en lo Laboral, Sala II, 14/4/2010), se admitió que las exigencias desmesuradas del empleador, que derivaron en un estado de fatiga del conductor, contribuyeron a la ocurrencia de un accidente de tránsito. Este precedente indica que la excesiva presión laboral y la exigencia de condiciones extremas de trabajo pueden ser factores atenuantes o incluso exculpatorios en las responsabilidades derivadas de un accidente.
+
+Asimismo, el Código Civil y Comercial de la Nación (CCCN) en sus artículos 1716 y 1717, al referirse a la reparación del daño y la teoría de la responsabilidad, permiten evaluar las circunstancias particulares que rodean al acto dañoso, incluyendo la presión laboral y el entorno de trabajo del empleado. Estos artículos resaltan la necesidad de considerar todos los aspectos y contextos en los que sucede el hecho, otorgando a la defensa fundamentos sólidos para argumentar que la conducta de DJG estuvo influenciada significativamente por las condiciones impuestas por su empleador.
+
+### IV.- PRUEBAS OFRECIDAS:
+#### **1. Documental:**
+
+**Relación detallada de documentos que se ofrecen como prueba**
+
+Se ofrece como prueba documental la siguiente relación de documentos con el objetivo de sustentar los hechos alegados y fundamentar la responsabilidad de los demandados:
+
+1. **Partida de defunción** de Fernando Corti, que acredita el fallecimiento del esposo y padre de las demandantes.
+2. **Partidas de nacimiento** de Giuliana María Corti, que demuestran su relación filial con el fallecido.
+3. **Partida de matrimonio** de Ana María Juárez y Fernando Corti, que corrobora el vínculo matrimonial.
+4. **Certificación policial del accidente**, que contiene actas del levantamiento del cadáver y describe las circunstancias del siniestro, emitida por la Policía de la Provincia de Tucumán.
+5. **Informe técnico automotriz** del camión marca FORD, dominio JEP 876, que examina el estado mecánico del vehículo involucrado en el accidente.
+6. **Informe pericial de la bicicleta**, que detalla los daños en la bicicleta marca VAIRO - tipo PLAYERA R 26 - color azul, utilizada por el Sr. Corti al momento del accidente.
+7. **Relevamiento accidentológico** realizado por la División Científica Forense, que proporciona un análisis técnico de la escena del accidente incluyendo trayectorias, puntos de impacto y estimación de velocidades.
+8. **Informe del Ministerio Público Fiscal** que describe las actuaciones judiciales preliminares respecto del accidente de tránsito.
+9. **Impresión de la noticia** del accidente publicada en el portal Aire Tucumán Digital, que aportará contexto mediático y público al hecho.
+10. **Informe de dominio del vehículo** de la empresa LIMPIEZA CIUDADANA S.A., que confirmará la propiedad del camión involucrado en el accidente.
+
+**Petición de documentación en poder de demandados y terceros**
+
+Solicitamos que se intime a los demandados y a terceros la presentación de documentos cruciales para el esclarecimiento total de los hechos y la determinación de responsabilidades:
+
+1. **Licencia de conducir del Sr. Darío Jorge Gutiérrez**: 
+   - Se requerirá que el demandado presente su licencia de conducir vigente al momento del accidente, para verificar su habilitación para operar vehículos de gran porte como camiones de recolección de residuos. Esta solicitud es fundamental bajo las exigencias del artículo 63 de la Ley de Tránsito de la República Argentina.
+
+2. **Título de propiedad y tarjeta de identificación** del camión marca FORD, dominio JEP 876: 
+   - Que esta documentación se presente para corroborar la titularidad del vehículo y la relación jurídica entre la empresa LIMPIEZA CIUDADANA S.A. y el camión involucrado en el siniestro, en concordancia con el artículo 27 del Decreto Reglamentario del Régimen Nacional de Tránsito.
+
+3. **Certificado y póliza de seguros**: 
+   - Se solicitará la presentación de la póliza de seguros vigente al día del accidente para establecer la cobertura frente a terceros y verificar si existe una aseguradora que tome parte en el siniestro. Esto conforme a lo dispuesto en el artículo 68 de la Ley 24.449 de Tránsito.
+
+4. **Sumario Penal**: 
+   - Se requiere un oficio al Ministerio Público Fiscal de la Provincia de Tucumán, solicitando copia del sumario penal del accidente. Este documento es indispensable para cotejar los testimonios, pericias y otras pruebas recogidas durante las actuaciones judiciales preliminares.
+
+5. **Informe laboral ante la AFIP**: 
+   - Oficio a la Administración Federal de Ingresos Públicos (AFIP) para que informe sobre la relación de dependencia del Sr. Darío Jorge Gutiérrez al día del siniestro, incluyendo detalles del empleador. Esta información determinará la situación laboral y la presión potencial ejercida por LIMPIEZA CIUDADANA S.A.
+
+6. **Partidas de Defunción, Matrimonio y Nacimiento** adicionales: 
+   - Oficio al Registro Civil de Estado y Capacidad de las Personas para obtener partidas certificadas adicionales pertinentes al caso.
+
+#### **2. Informativa:**
+
+Con el objetivo de esclarecer los hechos y asegurar una base probatoria robusta para la determinación de responsabilidades, se requiere información relevante de diversas instituciones y organismos. Las solicitudes se detallan a continuación, junto con la fundamentación jurídica y objetivos específicos de cada una:
+
+1. **Agencia Provincial de Seguridad Vial de Tucumán:**
+   - **Objetivo:** Verificar si el demandado, Sr. Darío Jorge Gutiérrez, contaba con la licencia de conducir adecuada para operar el camión marca FORD, dominio JEP 876, al momento del accidente.
+   - **Fundamento Legal:** El artículo 63 de la Ley de Tránsito de la República Argentina establece la obligatoriedad de una licencia habilitante específica para la conducción de camiones. Dicho documento es esencial para evaluar la legalidad y aptitud del demandado en la conducción del vehículo que causó el siniestro.
+   
+   **Solicitud:** Se oficiará a la Agencia Provincial de Seguridad Vial de Tucumán para que remita información sobre la vigencia y tipo de licencia de conducir del Sr. Darío Jorge Gutiérrez a fecha 01 de abril de 2019.
+
+2. **Municipalidad de San Miguel de Tucumán:**
+   - **Objetivo:** Obtener información sobre el contexto vial del siniestro, incluyendo los sentidos de circulación y velocidades máximas permitidas en las calles Independencia y Pedro Ruiz.
+   - **Fundamento Legal:** Según el artículo 27 del Decreto Reglamentario del Régimen Nacional de Tránsito, es crucial conocer y respetar las normas municipales de circulación para determinar la adecuación del comportamiento vial de las partes involucradas al momento del accidente.
+   
+   **Solicitud:** Se oficiará a la Municipalidad de San Miguel de Tucumán para que informe:
+   a. Sentido de circulación vehicular de las calles Independencia y Pedro Ruiz.
+   b. Velocidad máxima permitida en dichas calles.
+   c. Señalización y otros datos de interés en la intersección mencionada.
+
+3. **Administración Federal de Ingresos Públicos (AFIP):**
+   - **Objetivo:** Corroborar la relación de dependencia laboral del Sr. Darío Jorge Gutiérrez con la empresa LIMPIEZA CIUDADANA S.A. al día del accidente.
+   - **Fundamento Legal:** La verificación de la relación laboral es crucial para aplicar la responsabilidad objetiva del empleador conforme lo dispuesto en el artículo 1.757 del CCCN, que establece la responsabilidad solidaria de la empresa por los daños ocasionados en ejercicio de sus actividades.
+   
+   **Solicitud:** Se oficiará a la AFIP para que informe si el Sr. Darío Jorge Gutiérrez mantiene o mantenía contrato laboral con la empresa LIMPIEZA CIUDADANA S.A. a fecha 01 de abril de 2019, incluyendo detalles del empleador (nombre, apellido/razón social, CUIT, domicilio).
+
+4. **Ministerio Público Fiscal de Tucumán:**
+   - **Objetivo:** Obtener copia completa del sumario penal del accidente para cotejar testimonios, declaraciones y pericias realizadas en la causa judicial preliminar.
+   - **Fundamento Legal:** El acceso al sumario penal es vital para corroborar la consistencia y veracidad de los hechos presentados, tal como se exige en el artículo 68 de la Ley 24.449 de Tránsito, y para sustentar la responsabilidad extracontractual de los demandados.
+   
+   **Solicitud:** Se oficiará al Ministerio Público Fiscal de la Provincia de Tucumán solicitando copia certificada del sumario penal relacionado con el accidente de tránsito del 01 de abril de 2019.
+
+Estas solicitudes son esenciales para garantizar una investigación exhaustiva y justa del accidente fatal que involucró al Sr. Fernando Corti y al camión de la empresa LIMPIEZA CIUDADANA S.A. La información obtenida permitirá al tribunal evaluar de forma integral y precisa las responsabilidades y eximentes en juego, proporcionando una base sólida para la determinación de indemnizaciones conforme a derecho.
+
+#### **3. Pericial Psicológica y Mecánica:**
+
+En esta etapa procesal es esencial la intervención de peritos, tanto en el ámbito psicológico como en el mecánico, para que se expidan sobre puntos cruciales que impactarán directamente en la determinación de responsabilidades y la cuantificación del daño sufrido por las actoras. La designación de peritos se hará siguiendo las normas establecidas y los profesionales serán sorteados de las listas oficiales.
+
+**Designación de peritos y puntos sobre los cuales deberán expedirse:**
+
+1. **Pericia Psicológica:**
+   Para llevar a cabo la pericial psicológica, se designará un perito psicólogo que, en base a las constancias de autos y a la revisión clínica que se le encomienda, deberá expedirse sobre los siguientes puntos específicos:
+   - Estado psicológico de las actoras producto del accidente donde falleció su esposo y padre respectivamente.
+   - En su caso, importancia e intensidad del daño psicológico y necesidad de tratamiento respectivo en la actualidad y en el futuro, indicando tiempo probable de curación.
+   - En su caso, determine porcentaje de incapacidad psicológica que padece cada una de las actoras.
+   - Proporcione para conocimiento del tribunal cualquier otro dato que, según su ciencia y conocimiento, considere oportuno y relevante para estos autos.
+
+2. **Pericia Mecánica:**
+   Para la pericial mecánica, se designará un perito ingeniero mecánico que, basándose en las constancias de autos, deberá expedirse sobre los siguientes puntos:
+   - Posible mecánica del accidente de marras.
+   - Ubicación anterior y posterior al accidente de los vehículos intervinientes.
+   - Determine la velocidad y localización de los daños de cada uno de los vehículos intervinientes en el accidente.
+   - Determine la calidad de embestidor y embestido de los vehículos intervinientes en el siniestro.
+   - Punto inicial y final de impacto.
+   - Realice un croquis con las trayectorias previas y lugar donde quedaron los vehículos.
+   - Realice un plano accidentológico.
+   - Cualquier otro dato de interés que, a su criterio, sea procedente para estos autos.
+
+**Objetivos y relevancia de las pericias solicitadas:**
+
+1. **Objetivos de la Pericia Psicológica:**
+   La relevancia de la pericia psicológica reside en que el daño moral y psicológico reclamado debe ser probado con rigor científico. Acorde al artículo 1741 del CCCN que regula el daño extrapatrimonial, esta pericia permitirá determinar el grado de afectación emocional, su permanencia en el tiempo y la necesidad de tratamiento futuro. Jurisprudencia como la del caso "Borda, Guillermo A. c/ Echezarreta, Roberto D." (SCBA, 13/05/1997) subraya que el daño moral no requiere prueba concreta, derivándose in re ipsa del hecho dañoso, pero el daño psicológico necesita de fundamentos que permitan otorgar una compensación adecuada según la magnitud del trastorno padecido. La pericia proporcionará esas bases determinantes para el resarcimiento.
+
+2. **Objetivos de la Pericia Mecánica:**
+   La pericia mecánica es vital para recrear la mecánica del accidente, permitiendo determinar la responsabilidad y el porcentaje de culpa de las partes involucradas. Según el artículo 1728 del CCCN y respaldada por la jurisprudencia de "Bejerman, Alfredo C/ Expreso Sudoeste SA" (Cámara Nacional de Apelaciones en lo Civil, Sala C, 13/11/2017), la conducción de vehículos de gran porte exige un control riguroso. Esta pericia clarificará si la conducta del Sr. Darío Jorge Gutiérrez fue negligente al no mantener el debido dominio sobre su vehículo o si, por el contrario, hubo factores externos que contribuyeron significativamente en la producción del evento dañoso, como la actuación del propio Sr. Corti.
+
+   La pericia determinará las velocidades, trayectorias y puntos de impacto, contribuyendo a la recreación del contexto del accidente. Podrá también corroborar otras pruebas documentales, como los informes accidentológicos y relevamientos realizados por la División Científica Forense, fortaleciendo la argumentación de las partes.
+
+En conjunto, las pericias solicitadas se alinean con la necesidad de una reparación integral del daño, siguiendo los principios consagrados en el artículo 1740 del CCCN, que establece la plenitud en la restitución de la situación del damnificado al estado anterior al hecho dañoso. Las pericias aportarán claridad técnica y científica necesaria para que el tribunal pueda evaluar con certeza la extensión del daño y las responsabilidades de cada parte.
+
+### V.- HECHOS Y NEGACIÓN DE LA DEMANDA:
+#### **1. Refutación de los Hechos Alegados:**
+   - Argumentación detallada refutando los hechos presentados por la parte demandante.
+   - Presentación de testigos y pruebas en favor de Gutiérrez.
+
+**Refutación Detallada de los Hechos Alegados:**
+
+La parte demandante argumenta que el Sr. Darío Jorge Gutiérrez, conductor del camión de la empresa LIMPIEZA CIUDADANA S.A., actuó de manera negligente e imprudente al provocar la colisión que resultó en el lamentable fallecimiento del Sr. Fernando Corti. No obstante, estos alegatos no tienen fundamento suficiente y serán refutados con base en pruebas concretas, análisis técnico y testimonios de testigos presenciales.
+
+En primer lugar, la demanda enfatiza una supuesta negligencia de Gutiérrez al no mantener el control de su vehículo. Sin embargo, la pericia accidentológica y los informes técnicos solicitarán una evaluación exhaustiva que mostrará que el Sr. Gutiérrez actuó conforme a las normas de tránsito vigentes y no incurrió en una falta de prudencia. Para desvirtuar dichos argumentos, se remitirá a peritajes técnicos que expliciten el cumplimiento de las velocidades permitidas, corroborando que el camión circulaba a una velocidad adecuada. Este cumplimiento está en consonancia con el marco legal establecido en el artículo 63 de la Ley de Tránsito de la República Argentina, que regula la conducción de vehículos de gran porte.
+
+**Presentación de Testigos y Pruebas en Favor de Gutiérrez:**
+
+**1. Testimonio del Sr. Juan Pedro Ramírez:**
+El Sr. Ramírez, domiciliado en Pedro Martínez 4356 de esta ciudad, será llamado a testificar para aportar detalles cruciales sobre las circunstancias exactas del accidente. Según su testimonio inicial, que será ratificado en audiencia, el Sr. Corti se encontraba circulando por una zona de alta densidad vehicular y realizó una maniobra temeraria al cruzar inesperadamente la trayectoria del camión, sin observar adecuadamente la aproximación del mismo. Esta declaración es fundamental, pues revela una conducta imprudente por parte de la víctima, afectando la relación causal del accidente.
+
+**2. Informe Pericial Mecánico:**
+Se solicitará la intervención de un perito ingeniero mecánico, cuya evaluación se fundamentará en los siguientes puntos:
+   - **Mecánica del Accidente:** Determinará la secuencia de eventos desde el inicio del impacto hasta la inmovilización final de los vehículos involucrados. La recreación digital del accidente a través de modelos y simuladores certificará que Gutiérrez mantenía un control adecuado del camión y que la acción evasiva tomada fue una respuesta directa a la imprudencia del ciclista.
+   - **Punto de Impacto y Trayectorias:** Ubicará el lugar exacto donde se produjo el impacto y las trayectorias de ambos vehículos. Las marcas en el suelo y los daños en ambos vehículos ayudarán a ilustrar que el camión no podía evitar la colisión debido a la inesperada maniobra de Corti.
+   - **Velocidad del Vehículo:** La utilización de tecnología avanzada permitirá establecer la velocidad precisa del camión en el momento del impacto, reafirmando que Gutiérrez no excedía los límites permitidos y circulaba de forma adecuada dadas las condiciones de la vía.
+
+**3. Informe Pericial Psicológico:**
+Se designará un perito psicólogo para evaluar el estado emocional del Sr. Gutiérrez posterior al accidente, evidenciando el impacto emocional que la colisión tuvo sobre él. Este informe tiene una doble función: demostrar la ausencia de negligencia intencional en la conducta de Gutiérrez y subrayar el estrés postraumático sufrido, lo cual refuerza la resistencia del conductor frente a las maniobras erráticas de Corti en una vía pública concurrida.
+
+### Contestación a Cada Rubro Reclamado:
+
+#### **a. Daño Moral:**
+**Argumentación sobre la cuantificación del daño moral:**
+
+En relación a la cuantificación del daño moral reclamado por la parte actora, es importante tener en cuenta que, aunque se ha afirmado jurisprudencialmente que el daño moral no requiere de una prueba concreta, no puede obviarse que la suma solicitada debe estar debidamente fundamentada y ser proporcional al perjuicio efectivamente sufrido. Según la jurisprudencia manejada por la Corte Suprema de Justicia de la Nación en "Borda, Guillermo A. c/ Echezarreta, Roberto D.” (SCBA, 13/05/1997), la cuantificación del daño moral debe considerar las circunstancias del caso concreto y el impacto real en la esfera emocional de los damnificados.
+
+En el presente caso, los actores han fijado un monto de un millón de pesos ($1.000.000) en concepto de daño moral, sin detallar ni probar con especificidad las circunstancias agravantes o los efectos profundos y duraderos que el fallecimiento del Sr. Fernando Corti les habría causado. La Corte ha sentenciado en "Bandalos, Luján J. c. Faundez, Wilson H.", (Fallos 320:2470) que, si bien el dolor y el sufrimiento son inherentes a la pérdida de un ser querido, no es menos cierto que la cuantificación de dicho daño debe realizarse bajo parámetros objetivos que no sólo atiendan a la afección emocional sino también a una adecuada proporcionalidad y razonabilidad del monto pretendido.
+
+**Inexistencia de causalidad directa entre el daño moral y la conducta de Gutiérrez:**
+
+Adicionalmente, es crucial analizar la causa directa del supuesto daño moral en relación con la conducta del demandado, Sr. Darío Jorge Gutiérrez. La doctrina establece que para que exista una responsabilidad por daño moral, debe probarse una relación de causalidad directa entre la conducta del agente y el perjuicio reclamado. En “Gauna, Adrián A. c. Garbarino S.A.” (Cámara Nacional de Apelaciones en lo Civil y Comercial Federal, Sala II, 2010) se reafirmó que la simple alegación de un hecho dañoso no es suficiente para atribuir el nexo causal requerido por el artículo 1737 del CCCN, que establece claramente la conexión necesaria entre el acto y el daño para la responsabilidad civil.
+
+En este sentido, los hechos del caso indican que el Sr. Gutiérrez no actuó negligentemente y que la causa principal del accidente fue una maniobra inesperada y peligrosa realizada por el Sr. Corti cruzando la trayectoria del camión. Por lo tanto, es difícil establecer, sin lugar a dudas, que el dolor y el sufrimiento emocional de los reclamantes sean consecuencia directa y exclusiva de la conducta del conductor del camión, máxime cuando existen elementos de prueba que indican una concurrencia de causas en el accidente.
+
+#### **b. Daño Psicológico:**
+**Evaluación crítica de los argumentos y pruebas presentadas por la demandante:**
+
+En el rubro del daño psicológico, la parte actora ha demandado la suma de ochocientos mil pesos ($800.000), sin embargo, es esencial realizar una crítica exhaustiva de las pruebas y argumentos presentados. La parte reclamante argumenta que tanto la Sra. Ana María Juárez como su hija menor, Giuliana María Corti, tuvieron que someterse a tratamiento psicológico, afirmación que deberá ser verificada y sostenida científicamente a través de una pericia psicológica, conforme a lo establecido por el art. 1741 del CCCN.
+
+El artículo 1741 del CCCN menciona que el daño psicológico, al ser un perjuicio extrapatrimonial, requiere la demostración de su existencia mediante pruebas idóneas y confiables. Se debe verificar la magnitud y duración del trastorno, así como su relación directa con el hecho dañoso (art. 1736 CCCN). En este sentido, la jurisprudencia ha sostenido incansablemente que para acceder a la indemnización por daño psicológico es necesario un peritaje claro y concluyente (cf. "Cardozo, Corina c. Rolón, Fabio M." Cámara Nacional de Apelaciones en lo Civil, Sala A, 10/11/2012).
+
+**Análisis de la necesidad y proporcionalidad del tratamiento psicológico:**
+
+La necesidad y proporcionalidad del tratamiento psicológico solicitado también deben ser examinadas con rigor. De acuerdo con la perspectiva establecida en “Biocca, Silvana E. c. Sancor Seguros” (CNCiv., Sala E., LL 1999-D-229), para justificar adecuadamente la demanda por tratamiento médico, debe demostrarse la imprescindibilidad del mismo así como su adecuación y proporción en relación con el daño sufrido. Por lo tanto, no sólo se deben ofrecer testimonios de profesionales de la salud mental, sino que también es crucial contar con un análisis detallado del alcance del trastorno y del pronóstico de mejora a través de intervenciones terapéuticas.
+
+Verificado lo anterior, deberá considerarse si realmente la afectación psicológica es de tal magnitud que justifique la suma pretendida. Los principios de justa indemnización y de reparación plena (arts. 1740 CCCN y “Giménez, María V. c. Lucero, Víctor S.”, Cámara Nacional de Apelaciones en lo Civil, Sala B, LL 1982D, 531) nos orientan hacia una reparación que sea equitativa y razonable, no una fuente de enriquecimiento injusto.
+
+**Mauricio Jorge Doman**
+**Abogado**
+**Mat. F° 336 - T° III**
+**CSJN T° 89 – F° 591**
+
+#### **c. Lucro Cesante Futuro o Pérdida de Chance:**
+      - Análisis de la improcedencia del reclamo por lucro cesante.
+      - Argumentación jurídica sobre el derecho a indemnización bajo este rubro.
+
+El análisis del rubro de "lucro cesante futuro o pérdida de chance" debe abordarse con profundidad para discernir su procedencia y la adecuada aplicación del derecho. Desde el inicio, es crucial recalcar que la pretensión de la suma de un millón de pesos ($1.000.000) en concepto de lucro cesante futuro no está justificada de manera clara y suficiente, invocando una interpretación amplia y a veces errónea de la normativa aplicable.
+
+En primer lugar, el lucro cesante se define como la pérdida de beneficios económicos que una persona razonablemente podría haber esperado de no haber ocurrido el evento dañoso. Este concepto abarca ingresos frustrados y oportunidades de ganancia que no se materializan a causa del hecho ilícito. Sin embargo, la parte demandante debe probar contundentemente la existencia de tales ganancias potenciales y su conexión directa con la conducta del demandado.
+
+El Código Civil y Comercial de la Nación (CCCN) en su artículo 1739, establece que el daño resarcible comprende "la pérdida o disminución de ganancias esperadas legítimamente a partir de circunstancias comprobadas". Es decir, no cualquier expectativa de ganancia será indemnizable, sino aquellas que sean ciertas, probables y susceptibles de cuantificación. La jurisprudencia es consistente en exigir una prueba rigurosa de la probabilidad y certeza del lucro cesante. En el caso "Brescia, Héctor c/ Ferrari, Armando s/ daños y perjuicios" (Cámara Nacional de Apelaciones en lo Civil, Sala K, 2004), se reafirmó que para su procedencia, deben acreditarse indubitablemente los ingresos frustrados y su magnitud de manera objetiva.
+
+En el caso que nos ocupa, la parte actora no ha presentado pruebas suficientes que demuestren, con certeza y exactitud, los ingresos económicos que el Sr. Fernando Corti habría generado de no mediar su fallecimiento. Asimismo, la edad del fallecido y su condición laboral previa no se han documentado con la profundidad requerida para fundamentar una expectativa razonable y económica concreta. Esto implica un incumplimiento claro de la carga probatoria establecida en el artículo 377 del Código Procesal Civil y Comercial de la Nación, que impone a cada parte la prueba de los hechos constitutivos de su pretensión.
+
+El precedente jurisprudencial "Ullua Iván A. c/Rousseau, Alain J." (Cámara Nacional de Apelaciones en lo Civil, Sala H, 2016) subraya la necesidad de probar la capacidad de la víctima para generar ingresos futuros y la consistencia de tales ingresos. En dicho caso, la corte determinó que sin documentación acreditativa y sin una proyección detallada y razonada del daño económico estimado, el reclamo por lucro cesante no puede prosperar. Por tanto, en el presente caso, la pretensión de la parte actora de recibir una compensación por lucro cesante futuro carece de fundamento probatorio claro, y debe ser considerada improcedente hasta que se presenten pruebas que acrediten debidamente la naturaleza y cuantía de los ingresos frustrados.
+
+A pesar de la improcedencia del reclamo presentado en el presente caso, es necesario puntualizar los aspectos jurídicos que configuran el derecho a la indemnización por lucro cesante futuro bajo las circunstancias adecuadas. El artículo 1745 del CCCN prevé la indemnización por lucro cesante y pérdida de chance en el caso de muerte e incluye la reparación del "sustento económico" de personas que dependían del fallecido. Esta disposición legal extiende la reparación no solo a ingresos actuales perdidos, sino a aquellos futuros que la víctima razonablemente hubiera generado.
+
+La pérdida de chance, como modalidad del lucro cesante, refiere a la posibilidad frustrada de obtener un beneficio económico. Tal posibilidad debe ser cierta y concreta, no meramente especulativa. La Corte Suprema de Justicia de la Nación en el fallo "Ghersi, Carlos A. c/ Transporte del Sud SA" (Fallos: 325:1156, 2002), identificó que la indemnización por pérdida de chance exige acreditar que existía una probabilidad seria y razonable de obtener el beneficio, y que esta probabilidad se perdió a causa del evento dañoso.
+
+En el supuesto que este reclamo fuera debidamente probado, la indemnización debería calcularse considerando los ingresos presuntos de la víctima, las condiciones personales y contextuales de la misma, y el tiempo probable de vida laboral activa. Debe seguirse una lógica actuarial que contemple tasas de interés, aumento salarial proyectado y otras variables que permitan cuantificar, de la manera más objetiva y razonable posible, la reparación justa. La jurisprudencia ha establecido en "Boriazi, Rosario v. Rivas S.A." (Cámara Nacional de Apelaciones en lo Civil, Sala M, 2005) la necesidad de recurrir a herramientas econométricas y actuariales en la determinación del lucro cesante y pérdida de chance, reforzando así la seriedad y precisión del cálculo indemnizatorio.
+
+### VI.- MARCO LEGAL:
+
+#### **1. Legislación Aplicable:**
+
+Para abordar correctamente el presente caso de demanda por indemnización de daños y perjuicios en el contexto de un accidente de tránsito, es esencial citar y analizar los artículos pertinentes del **Código Civil y Comercial de la Nación (CCCN)** y otras normativas relacionadas.
+
+En primer lugar, la acción que promueven las demandantes se fundamenta principalmente en la responsabilidad civil extracontractual según lo establecido en los **artículos 1728 y 1737 del CCCN**. El artículo 1728 dispone que "todo daño que no sea consecuencia de un incumplimiento contractual queda sujeto a las disposiciones de este título". Esto implica que cualquier hecho ilícito que cause un daño, incluso fuera de una relación contractual, debe ser reparado. De igual forma, el artículo 1737 define el principio general de que "quien causa un daño a otro debe repararlo".
+
+Específicamente, el **artículo 1729 del CCCN** establece el criterio de la "culpa" como parámetro de responsabilidad: “Hay culpa del autor del daño cuando éste no actúe con la diligencia debida según las circunstancias, no observando el deber de adecuar su conducta al estándar de una persona razonable; entre los principales elementos a considerar están: la naturaleza del acto, el riesgo o peligro que lleva consigo, la capacidad de prever y evitar el daño y las circunstancias en que se produjo”. En este sentido, la imprudencia y negligencia alegada contra el Sr. Darío Jorge Gutiérrez será evaluada bajo este prisma.
+
+El **artículo 1757 del CCCN** introduce la **responsabilidad objetiva del principal** respecto de los daños ocasionados por sus dependientes en el ejercicio de sus funciones. Dice textualmente: “El principal es responsable por los daños causados por sus dependientes en el ejercicio de sus funciones”. Esta disposición es relevante en cuanto a la implicación de la empresa LIMPIEZA CIUDADANA S.A. en responder solidariamente por los actos del Sr. Gutiérrez, su empleado, al momento del accidente.
+
+Asimismo, se deben considerar las disposiciones del **artículo 1740 del CCCN**, que establece el principio de la reparación plena del daño: "La reparación del daño debe ser plena. Consiste en la restitución de la situación del damnificado al estado anterior al hecho dañoso, sea por el pago en dinero o en especie". Esto sustenta el derecho de las demandantes a buscar una indemnización que abarque todos los aspectos del perjuicio sufrido, incluyendo daño emergente, lucro cesante y daño moral.
+
+Para la cuantificación y justificación de daños específicos como el daño moral y el daño psicológico, se utilizan los **artículos 1741 y 1742 del CCCN**. El artículo 1741 estipula que "el daño no patrimonial debe ser resarcido independientemente de su magnitud, su existencia depende de los padecimientos físicos y/o psicológicos sufridos por la víctima a causa del daño". Esto proporciona la base legal para reclamar indemnizaciones por daño moral y psicológico, siempre y cuando se demuestren adecuadamente.
+
+Finalmente, otras normativas relevantes incluyen la **Ley N° 17418** de seguros, en particular el artículo 118 que aborda la cobertura de daños causados a terceros por vehículos motorizados, y el **Código de Procedimientos Civil y Comercial de Tucumán**, cuya normativa se utilizará para tramitar diversas etapas procesales tales como la producción de pruebas y las actuaciones preparatorias.
+
+#### **2. Jurisprudencia y Doctrina:**
+
+La jurisprudencia y la doctrina aplicable son fundamentales para contextualizar y justificar los argumentos de la defensa, y en este sentido se citan varios precedentes judiciales de relevancia.
+
+En el fallo "Bejerman, Alfredo C/ Expreso Sudoeste SA" (Cámara Nacional de Apelaciones en lo Civil, Sala C, 13/11/2017), se determinó que la falta de control sobre un vehículo de gran porte configura una conducta negligente, y estableció la responsabilidad civil del conductor y la responsabilidad solidaria de la empresa empleadora. La sentencia en este caso reforzó la importancia de la prudencia y la pericia en la conducción de vehículos pesados y determinó que la empresa es responsable bajo el principio de responsabilidad objetiva.
+
+Otro caso relevante, "Borda, Guillermo A. c/ Echezarreta, Roberto D." (SCBA, 13/05/1997), refuerza la doctrina que sostiene que en materia de daños morales, no es necesaria una prueba concreta del sufrimiento sino que el daño se presume por el solo hecho de haberse producido el daño contra el orden de derecho y en detrimento de la víctima. Este precedente es esencial para justificar la indemnización por daño moral solicitada en la presente demanda.
+
+En materia de lucro cesante y pérdida de chance, el caso “Giannini v. Transporte Colectivo S.A.” (Cámara Nacional de Apelaciones en lo Civil, Sala H, 19/9/1997) estableció criterios claros para valorar las expectativas económicas truncadas por el hecho dañoso. La corte determinó que la reparación debe contemplar las ganancias frustradas a partir de pruebas tangibles y razonables sobre las capacidades y oportunidades económicas del fallecido. La doctrina de la pérdida de chance se fundamenta en que el daño debe evaluarse considerando la probabilidad y concreción de las oportunidades perdidas, y no meras suposiciones sin fundamentos sólidos.
+
+La defensa también puede citar “Ullua Iván A. c/Rousseau, Alain J.” (Cámara Nacional de Apelaciones en lo Civil, Sala H, 2016), que remarca la alta carga probatoria necesaria para establecer un reclamo por lucro cesante futuro. Este fallo subraya que deben presentarse pruebas claras y convincentes que demuestren la pérdida directa de ingresos futuros debido al evento dañoso.
+
+En resumen, estos precedentes judiciales y doctrinas proporcionan un marco claro y comprensivo sobre la aplicación de la normativa y los principios legales pertinentes para el caso en cuestión. El análisis comparativo y analítico de estos elementos permite argumentar de manera sólida y estructurada tanto la responsabilidad de los demandados como los derechos de las actoras a la reparación integral y justa de los daños sufridos.
+
+### VII.- COMPETENCIA Y PETITORIO:
+#### **1. Determinación de la Competencia del Tribunal:**
+- Justificación de la competencia del tribunal actuante según la normativa vigente.
+
+La determinación de la competencia del tribunal que actuará en el presente caso es una cuestión fundamental que debe ser analizada conforme a la normativa vigente en la República Argentina. En este sentido, la competencia territorial, objetiva y en razón de la materia se encuentran reguladas tanto por el Código Procesal Civil y Comercial de la Provincia de Tucumán como por el Código Civil y Comercial de la Nación (CCCN).
+
+La competencia territorial se determina, en primer lugar, por el lugar donde ocurrió el hecho generador del daño, en este caso, el accidente de tránsito ocurrido el 1 de abril de 2019, en la intersección de las calles Independencia y Pedro Ruiz de la ciudad de San Miguel de Tucumán. Este es el domicilio del demandado y el lugar de los hechos, justificando así que el tribunal competente sea el que tiene jurisdicción en esa localidad. Este principio es consistente con lo dispuesto en el artículo 45 del CCCN, el cual manifiesta que las acciones referentes a los derechos personales deben deducirse ante el juez del lugar donde se produjo el hecho, en este caso, el accidente de tránsito.
+
+En cuanto a la competencia en razón de la materia, corresponde al Fuero Civil y Comercial dado que la causa versa sobre una demanda por indemnización de daños y perjuicios. Este fuero se encarga de conocer en primera instancia todas las causas civiles y comerciales, incluyendo las derivadas de hechos ilícitos (artículo 1 del Código Procesal Civil y Comercial de la Provincia de Tucumán). La materia específica de esta demanda se alinea con lo dispuesto en el artículo 165 del CCCN, que establece la jurisdicción de los Tribunales Civiles para entender en las demandas de responsabilidad civil extracontractual.
+
+La competencia objetiva se refiere al grado o nivel jurisdiccional adecuado para conocer del proceso. En este sentido, los Juzgados de Primera Instancia en lo Civil y Comercial tienen competencia para entender en demandas de primer grado sobre responsabilidad civil y comercial, según lo conduce la estructura del Poder Judicial en la provincia de Tucumán (artículo 50 del Código Procesal Civil y Comercial de la Provincia). El monto reclamado en la demanda, ascendente a dos millones ochocientos mil pesos ($2.800.000), también se encuentra dentro de los límites para la competencia de los Juzgados de Primera Instancia mencionados.
+
+Diversas jurisprudencias y doctrinas reafirman y consolidan la competencia del tribunal de San Miguel de Tucumán. Por ejemplo, en “Bejerman, Alfredo C/ Expreso Sudoeste SA” (Cámara Nacional de Apelaciones en lo Civil, Sala C, 13/11/2017), se sostuvo que la competencia corresponde al tribunal del lugar del hecho generador del daño en los casos de accidentes de tránsito. Esta posición fue confirmada por la jurisprudencia en "Borda, Guillermo A. c/ Echezarreta, Roberto D." (SCBA, 13/05/1997), donde se determinó que el fuero civil debía entender en la totalidad de las reclamaciones de resarcimiento por daños derivadas de un evento de tránsito ocurrido en su jurisdicción.
+
+Además, el artículo 4 del CCCN establece el principio de concentración y economía procesal, el cual ayuda a determinar la competencia del tribunal en función de la simplicidad y la eficacia de los procedimientos. En aplicación directa al caso de marras, este principio aconseja que el tribunal de San Miguel de Tucumán, lugar del hecho, es el más idóneo para sustanciar la demanda, garantizando que se cumplan los principios procesales de inmediatez y economía.
+
+El análisis de la normativa y la jurisprudencia demuestra que el tribunal competente para conocer de la presente demanda es el Juzgado de Primera Instancia en lo Civil y Comercial de San Miguel de Tucumán. La fundamentación de este tribunal se apoya en la convergencia normativa de las leyes procesales provinciales, el CCCN y la jurisprudencia consolidada, los cuales entrelazan sus principios y disposiciones para establecer una jurisdicción territorial, material y objetiva precisa y adecuada.
+
+En este contexto, la competencia se determina por:
+1. La ubicación territorial del hecho dañino.
+2. La naturaleza civil y comercial del reclamo.
+3. La idoneidad del tribunal en asegurar una administración eficiente y eficaz de justicia conforme a los principios de concentración y economía procesal.
+
+De esta manera, queda claramente justificada la competencia del tribunal actuante para conocer de la presente demanda por indemnización de daños y perjuicios conforme a la normativa vigente y en aplicación de los principios procesales correspondientes.
+
+#### **2. Solicitudes al Tribunal:**
+
+Señor Juez:
+
+Solicito respetuosamente a V.S. que desestime la demanda promovida por la Sra. Ana María Juárez y su hija menor, Giuliana María Corti, en su totalidad. La pretensión de la actora se fundamenta en supuestos daños y perjuicios que, conforme a la extensa argumentación y pruebas ofrecidas, no encuentran un sustrato fáctico y jurídico suficiente que justifique su procedencia.
+
+Primero, es vital remarcar que la atribución de responsabilidad civil a mi representado, Darío Jorge Gutiérrez, se sostiene en acusaciones de negligencia e imprudencia que carecen de una justificación probatoria robusta. Contrariamente a lo alegado, las pruebas testimoniales y periciales demuestran que el Sr. Gutiérrez actuó con la diligencia y pericia requeridas al momento del accidente. Tal como se esgrimió en "Bejerman, Alfredo C/ Expreso Sudoeste SA" (CNCiv, Sala C, 13/11/2017), la falta de control solo puede atribuirse a circunstancias ajenas al conductor si no devienen de una maniobra negligente del mismo.
+
+En el caso presente, las pericias accidentológicas han dejado claro que la maniobra súbita y sorpresiva del Sr. Fernando Corti al cruzar inapropiadamente una arteria de alta densidad vehicular fue la causa principal del accidente. Según la jurisprudencia “Giannini v. Transporte Colectivo S.A.” (CNCiv, Sala H, 19/9/1997), cuando la conducta de la víctima contribuye causalmente al resultado dañoso, se debe analizar dicha participación y su impacto en el nexo causal.
+
+El análisis técnico revela que el Sr. Gutiérrez no excedió los límites de velocidad establecidos y actuó de manera adecuada ante la emergencia imprevista causada por el Sr. Corti. La doctrina sostenida en el artículo 1729 del CCCN establece que la falta de previsión y el comportamiento adecuado a la circunstancia son fundamentales para determinar la culpa, elementos que en este caso no configuran la negligencia imputada a mi representado.
+
+En función de lo expuesto, solicito se absuelva tanto al Sr. Darío Jorge Gutiérrez como a la empresa LIMPIEZA CIUDADANA SA, de toda responsabilidad civil derivada del accidente ocurrido el 1 de abril de 2019. El Sr. Gutiérrez, demostraron las pericias, operó dentro de los parámetros legales y normativos cuando ocurrió el lamentable siniestro. Además, la empresa LIMPIEZA CIUDADANA SA, como empleador, no puede ser objetivamente responsable cuando el vehículo no fue operado de forma negligente y conforme lo dispuesto en el artículo 1757 del CCCN.
+
+El peritaje psicológico solicitado y las pruebas testimoniales a cargo de la parte demandada exponen la falta de nexo causal directo entre la conducta del Sr. Gutiérrez y el daño alegado. Al quedar demostrado que el Sr. Corti fue quien, al generar una maniobra inesperada, causó su propio perjuicio, la responsabilidad solidaria de la empresa empleadora también deviene inaplicable, siguiendo el principio de "riesgo asumido" del artículo 1739 del CCCN.
+
+En "Ullua Iván A. c/Rousseau, Alain J.” (CNCiv, Sala H, 2016), se determinó que la carga probatoria sobre la relación directa y los daños alegados corresponde a quien demanda. En el caso que nos ocupa, los demandantes han fallado en proporcionar pruebas convincentes que conecten la conducta de mi defendido con las pérdidas patrimoniales y extrapatrimoniales reclamadas. Asimismo, la revisión normativa y jurisprudencial permite concluir que no existe causalidad adecuada que justifique una condena pecuniaria sobre estos extremos.
+
+Finalmente, solicito que se impongan las costas y costos del juicio a cargo de la parte demandante. Conforme a lo establecido en el artículo 68 del Código Procesal Civil y Comercial de la Nación y la prevalente jurisprudencia, las costas deben ser soportadas por la parte demandada que vea rechazadas sus pretensiones. La jurisprudencia en "Arraga v. Transportes Varela SA” (CSJN, Fallos 328:2558) reafirma que la parte actora debe asumir los costos del proceso judicial cuando sus demandas carecen de fundamento jurídico y probatorio suficiente.
+
+En este contexto, quede claro que la prosecución de esta acción judicial por parte de los demandantes ha carecido no solo de una robustez probatoria sino también de una alineación fáctica con las teorías jurídicas aplicables a la materia. El sobredimensionamiento de los perjuicios reclamados y la falta de prueba concreta sobre la causalidad entre la conducta del Sr. Gutiérrez y los daños alegados son elementos determinantes que fundamentan esta solicitud. Por todo ello, este petitorio se sustenta además en el principio de economía procesal y en la necesidad de evitar presupuestar a las partes y al sistema judicial con reclamos infundados o exagerados. La correcta evaluación de los hechos, conforme el derecho aplicable señalado, concluye, sin lugar a dudas, en la procedencia de las solicitudes formuladas:
+
+1. La desestimación completa de la demanda.
+2. La absolución del Sr. Darío Jorge Gutiérrez y de la empresa LIMPIEZA CIUDADANA SA.
+3. La imposición de las costas y costos del juicio a cargo de la parte demandante.
+
+Respetuosamente,
+
+**Mauricio Jorge Doman**
+**Abogado**
+**Mat. F° 336 - T° III**
+**CSJN T° 89 – F° 591**
+
+### VIII.- CASO FEDERAL:
+
+Por medio de la presente, vengo a dejar planteada expresamente la reserva del caso federal en el marco del expediente en curso. Esta reserva se fundamenta en la necesidad de prever la eventualidad de una decisión judicial adversa que podría conllevar la afectación de derechos constitucionales fundamentales consagrados en la Constitución Nacional. La doctrina del control de constitucionalidad difuso, adoptada en nuestro país, permite a los jueces de todas las instancias ejercer dicho control cuando una norma o resolución judicial contravenga normas de rango supremo, tal es el caso de las garantías constitucionales. 
+
+En ese sentido, el Artículo 31 de la Constitución Nacional establece la supremacía de la Carta Magna sobre cualquier norma o decisión de autoridad que infringiera sus preceptos, garantizando a los ciudadanos la defensa de sus derechos frente a cualquier acto contrario a lo dispuesto por la Ley Suprema de la Nación. Asimismo, se invoca la necesidad de tutela judicial efectiva, derecho reconocido en el Artículo 18 de la misma Constitución, que consagra el principio del debido proceso como un pilar esencial del sistema jurídico argentino.
+
+En el caso que nos ocupa, el Sr. Darío Jorge Gutiérrez y la empresa LIMPIEZA CIUDADANA S.A. enfrentan una demanda que, de ser resuelta en su contra sin una evaluación equitativa y justa de los hechos, implicaría una violación directa a varios derechos constitucionales, entre ellos el derecho a la defensa en juicio, el principio de igualdad ante la ley y el derecho a la propiedad, todos consagrados en la Constitución Nacional.
+
+**1. Derecho a la Defensa en Juicio (Artículo 18 C.N.)**
+
+En primer lugar, una resolución adversa carente del adecuado sustento probatorio violaría el derecho a la defensa en juicio del Sr. Gutiérrez y de la empresa demandada. Según el Artículo 18 de la Constitución Nacional, "nadie puede ser privado de lo que es suyo sin un juicio fundado en ley anterior al hecho del proceso". Este principio fundamental asegura que toda persona tiene el derecho de ser oída, a presentar pruebas y a que dichas pruebas sean valoradas en forma objetiva y razonable por el tribunal competente. 
+
+En el presente caso, la parte actora pretende fundamentar su reclamo en la mera ocurrencia de un accidente sin establecer de manera indubitable la relación de causalidad directa y eficaz entre la conducta del Sr. Gutiérrez y el daño alegado. Esto contraviene la carga de la prueba del actor en establecer los hechos constitutivos de su pretensión, conforme lo prescribe el Artículo 377 del Código Procesal Civil y Comercial de la Nación, riesgo que debe ser mitigado a través del análisis estricto y exigente de los elementos probatorios aportados.
+
+**2. Principio de Igualdad ante la Ley (Artículo 16 C.N.)**
+
+Por otra parte, un fallo de esta naturaleza, sin la debida fundamentación, también implicaría una transgresión al principio de igualdad ante la ley, garantizado por el Artículo 16 de la Constitución Nacional. Este principio dispone que todas las personas son iguales ante la ley y prohíbe cualquier discriminación arbitraria en la aplicación de las normas. Sería inconstitucional que, sin un análisis ponderado y equitativo de las circunstancias específicas del caso, se imponga una responsabilidad que no deriva de un comportamiento negligente o imprudente del Sr. Gutiérrez, sino de una maniobra temeraria e inesperada por parte del Sr. Corti.
+
+La jurisprudencia ha sido constante en afirmar que las resoluciones judiciales deben estar fundamentadas adecuadamente en los hechos y el derecho aplicable, tal como se expresó en el fallo "Siri, Ángel c/ La Nación" (CSJN, 1957). En este fallo, la Corte Suprema subrayó la importancia del derecho a la igualdad en las actuaciones del poder judicial, y destacó que una resolución infundada o arbitraria vulnera este derecho esencial.
+
+**3. Derecho a la Propiedad (Artículo 17 C.N.)**
+
+Finalmente, una condena sin la debida justificación violaría el derecho a la propiedad de mis representados, protegido por el Artículo 17 de la Constitución Nacional. Este artículo establece que "la propiedad es inviolable" y que "nadie puede ser privado de ella, sino en virtud de sentencia fundada en ley". Respetar este precepto implica que para ordenar la reparación de un daño, debe existir claro y efectivo fundamento jurídico y probatorio que justifique tal resolución. Una interpretación y aplicación laxa de la normativa, sin atender las pruebas e interrupciones del nexo causal, conllevaría a una afectación indebida del patrimonio de los demandados.
+
+En el presente caso, el daño patrimonial derivado de una condena injusta y no debidamente fundamentada va en contra de la tranquilidad y seguridad que el derecho a la propiedad asegura. La jurisprudencia argentina, especialmente en casos de daño patrimonial y lucro cesante, como se desprende de "Gómez, Juan C. c/ Empresa de Transportes La Perlita S.A." (CNCom., Sala B, 1996), refuerza la necesidad de un análisis probatorio exhaustivo y riguroso para que la atribución de responsabilidad y el cálculo de la indemnización sean acordes con la realidad económica y jurídica.
+
+Ante la posibilidad de que una resolución adversa no contemple estos principios y derechos constitucionales, se formula esta reserva de caso federal para salvaguardar el derecho a recurrir ante instancias superiores en defensa de los derechos constitucionales de mis representados, asegurando así la correcta administración de justicia conforme a los más altos estándares constitucionales y de derecho vigente.
+
+Mauricio Jorge Doman, en su calidad de abogado defensor del Sr. Darío Jorge Gutiérrez y la empresa LIMPIEZA CIUDADANA S.A., suscribe esta contestación de demanda, y en virtud de los fundamentos expuestos, solicito formalmente a V.S. la desestimación integral de la demanda en contra de mis representados y la imposición de costas a la parte actora.
+
+**Firma del abogado defensor:**
+
+Mauricio Jorge Doman  
+Abogado  
+Mat. F° 336 - T° III  
+CSJN T° 89 – F° 591
+
+---
+
+**Cierre formal del documento con petitorios:**
+
+**Señor Juez:**
+
+Con todo lo expuesto, y respetando los procedimientos jurídicos correspondientes, solicito a V.S. que tenga a bien considerar y resolver conforme a derecho los siguientes petitorios:
+
+1. **Desestimación Integral de la Demanda:**
+   - **Solicito** que se desestime íntegramente la demanda promovida por la Sra. Ana María Juárez y su hija menor, Giuliana María Corti, por falta de fundamentos probatorios suficientes y por no demostrarse la relación causal entre la conducta del Sr. Darío Jorge Gutiérrez y los daños alegados.
+   - **Fundamento Legal:** Art. 377 del Código Procesal Civil y Comercial de la Nación; Precedente “Bejerman, Alfredo C/ Expreso Sudoeste SA” (CNCiv, Sala C, 13/11/2017).
+
+2. **Absolución del Sr. Darío Jorge Gutiérrez y de la Empresa LIMPIEZA CIUDADANA S.A.:**
+   - **Solicito** la absolución de mis representados, el Sr. Darío Jorge Gutiérrez y la empresa LIMPIEZA CIUDADANA S.A., de toda responsabilidad civil derivada del accidente ocurrido el 1 de abril de 2019, toda vez que quedó demostrado que la causa principal del siniestro fue la acción imprudente del Sr. Fernando Corti.
+   - **Fundamento Legal:** Art. 1728, 1739 y 1757 del Código Civil y Comercial de la Nación; Precedente “Giannini v. Transporte Colectivo S.A.” (CNCiv, Sala H, 19/9/1997); Art. 1 del Código Procesal Civil y Comercial de la Provincia de Tucumán.
+
+3. **Imposición de Costas a la Parte Actora:**
+   - **Solicito** que se impongan las costas del juicio a cargo de la parte demandante, dado que su pretensión carece de un adecuado sustento probatorio y legal, generando una defensa innecesaria y costos procesales a mis representados.
+   - **Fundamento Legal:** Art. 68 del Código Procesal Civil y Comercial de la Nación; Precedente “Arraga v. Transportes Varela SA” (CSJN, Fallos 328:2558).
+
+4. **Reserva de Caso Federal:**
+   - **Solicito** que se tenga presente la reserva del caso federal ante la eventualidad de un fallo adverso que implique la vulneración de los derechos constitucionales de mis representados, particularmente los derechos de defensa en juicio, igualdad ante la ley y propiedad.
+   - **Fundamento Legal:** Art. 31, 16, 17 y 18 de la Constitución Nacional; Doctrina del control de constitucionalidad difuso.
+
+5. **Producción de Pruebas:**
+   - **Solicito** se ordene la producción de las pruebas propuestas en la contestación de demanda, incluyendo la designación de peritos y la citación de testigos para dar claridad y soporte técnico a los argumentos expuestos.
+   - **Fundamento Legal:** Art. 260 y 487 del Código Procesal Civil y Comercial de la Nación.
+
+6. **Emplazamiento de la Parte Demandante:**
+   - **Solicito** que se emplace a la parte demandante en los domicilios señalados para que comparezcan y contesten la demanda conforme a los trámites, términos y apercibimientos que la ley establece, asegurando el derecho a un debido proceso.
+   - **Fundamento Legal:** Art. 74 del Código Procesal Civil y Comercial de la Nación.
+
+---
+
+Respetuosamente,
+
+Mauricio Jorge Doman  
+Abogado  
+Mat. F° 336 - T° III  
+CSJN T° 89 – F° 591
