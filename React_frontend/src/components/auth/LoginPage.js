@@ -13,7 +13,8 @@ function LoginPage() {
   const navigate = useNavigate();
   const [buttonWidth, setButtonWidth] = useState(0);
   const buttonRef = useRef(null);
-  const { setIsLoggedIn, setLoading } = useContext(AuthContext);
+  const { setIsLoggedIn, setLoading, setSubscription } =
+    useContext(AuthContext);
 
   useEffect(() => {
     if (buttonRef && buttonRef.current) {
@@ -43,6 +44,8 @@ function LoginPage() {
         localStorage.setItem('token', data.token);
         const decoded = jwtDecode(data.token);
         const subscription = decoded.subscription;
+        setSubscription(subscription);
+
         if (subscription !== 0) {
           navigate('/work');
         } else {
@@ -74,11 +77,19 @@ function LoginPage() {
 
       if (data.success) {
         toast.success('Successfully logged in.');
-        localStorage.setItem('token', data.token);
         setIsLoggedIn(true);
-        navigate('/work');
+        localStorage.setItem('token', data.token);
+        const decoded = jwtDecode(data.token);
+        const subscription = decoded.subscription;
+        setSubscription(subscription);
+
+        if (subscription !== 0) {
+          navigate('/work');
+        } else {
+          navigate('/subscription');
+        }
       } else {
-        toast.error('Login failed!');
+        toast.error(data.message);
       }
     } catch (error) {
       toast.error('Google login failed. Please try again.');

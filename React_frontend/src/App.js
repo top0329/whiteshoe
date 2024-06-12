@@ -74,7 +74,15 @@ const RoutesComponent = () => {
           <Route
             path='/subscription'
             element={
-              isLoggedIn ? <SubscriptionPage /> : <Navigate to='/login' />
+              isLoggedIn ? (
+                subscription !== 0 ? (
+                  <Navigate to='/work' />
+                ) : (
+                  <SubscriptionPage />
+                )
+              ) : (
+                <Navigate to='/login' />
+              )
             }
           />
           <Route

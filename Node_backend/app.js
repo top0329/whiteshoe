@@ -155,7 +155,6 @@ app.post('/google-auth', async (req, res) => {
     const payload = ticket.getPayload();
     const { email, sub: googleId } = payload;
     let user = await User.findOne({ email });
-    console.log({ user });
     if (!user) {
       user = new User({ email, googleId });
       await user.save();
@@ -274,32 +273,32 @@ app.post('/subscribe', async (req, res) => {
   try {
     const { email } = jwt.verify(token, process.env.JWT_SECRET_KEY);
     const user = await User.findOne({ email });
+
     if (!user) {
       return res
         .status(404)
-        .json({ success: false, message: 'User not found' });
+        .json({ success: false, message: 'User not found.' });
     }
     if (!user.customerId) {
       console.log('No customerId');
       const customer = await stripe.customers.create({ email });
-      console.log({ customer });
       user.customerId = customer.id;
     }
-    console.log({ plan });
 
     let priceId;
+    let subscription;
     switch (plan) {
       case 'usage':
         priceId = process.env.USAGE_PRICE_ID;
-        user.subscription = 1;
+        subscription = 2;
         break;
       case 'member':
         priceId = process.env.MEMBER_PRICE_ID;
-        user.subscription = 2;
+        subscription = 3;
         break;
       case 'free':
         priceId = null;
-        user.subscription = 0;
+        user.subscription = 1;
         break;
       default:
         break;
@@ -307,27 +306,37 @@ app.post('/subscribe', async (req, res) => {
 
     await user.save();
 
+    const jwtToken = jwt.sign(
+      { email: user.email, userId: user._id, subscription: user.subscription },
+      process.env.JWT_SECRET_KEY,
+      { expiresIn: '1h' }
+    );
+
     if (plan === 'free') {
       console.log('Free plan');
-      return res.status(200).json({ success: true });
+      return res.status(200).json({ success: true, token: jwtToken });
     }
 
     console.log('priceId => ', priceId);
 
+    const line_item =
+      plan == 'usage' ? { price: priceId } : { price: priceId, quantity: 1 };
+
     const session = await stripe.checkout.sessions.create({
-      mode: plan == 'member' ? 'subscription' : 'payment',
+      mode: 'subscription',
       payment_method_types: ['card'],
-      line_items: [
-        {
-          price: priceId,
-          quantity: 1,
-        },
-      ],
-      success_url: `${process.env.REACT_APP_FRONTEND_URL}/work`,
-      cancel_url: `${process.env.REACT_APP_FRONTEND_URL}/billing`,
+      line_items: [line_item],
+      metadata: {
+        subscription,
+        email,
+      },
+      success_url: `${process.env.FRONTEND_URL}/subscription`,
+      cancel_url: `${process.env.FRONTEND_URL}/subscription`,
     });
 
-    res.status(200).json({ success: true, session });
+    console.log({ session });
+
+    res.status(200).json({ success: true, token: jwtToken, session });
   } catch (error) {
     console.error('Subscription error:', error.message);
     if (error.message === 'jwt expired') {
@@ -339,6 +348,68 @@ app.post('/subscribe', async (req, res) => {
     return res.status(500).json({ success: false, message: error.message });
   }
 });
+
+app.post('/update-token', async (req, res) => {
+  const { token } = req.body;
+  console.log({ token });
+  if (!token) {
+    return res.status(400).json({
+      success: false,
+      message: 'Token is missing. Please sign in again.',
+    });
+  }
+
+  try {
+    const { email } = jwt.verify(token, process.env.JWT_SECRET_KEY);
+    const user = await User.findOne({ email });
+
+    if (!user) {
+      return res
+        .status(404)
+        .json({ success: false, message: 'User not found.' });
+    }
+    const jwtToken = jwt.sign(
+      { email: user.email, userId: user._id, subscription: user.subscription },
+      process.env.JWT_SECRET_KEY,
+      { expiresIn: '1h' }
+    );
+    res.status(200).json({ success: true, token: jwtToken });
+  } catch (err) {
+    console.error('Update token error:', error.message);
+    if (error.message === 'jwt expired') {
+      return res.status(500).json({
+        success: false,
+        message: 'Your session has expired. Please login again.',
+      });
+    }
+    return res.status(500).json({ success: false, message: error.message });
+  }
+});
+
+// Stripe webhook endpoint
+app.post(
+  '/webhook',
+  express.raw({ type: 'application/json' }),
+  async (req, res) => {
+    try {
+      const payload = req.body;
+      if (payload.type === 'checkout.session.completed') {
+        const session = payload.data.object;
+        if (session.payment_status === 'paid') {
+          const { subscription, email } = session.metadata;
+          const user = await User.findOne({ email });
+          user.subscription = subscription;
+          console.log({ user });
+          await user.save();
+        }
+      }
+    } catch (err) {
+      console.error('Webhook Error:', err.message);
+      return res.status(400).send(`Webhook Error: ${err.message}`);
+    }
+    res.status(200).json({ received: true });
+  }
+);
 
 // Multer storage configuration
 const storage = multer.diskStorage({
@@ -485,36 +556,6 @@ app.post('/change-email', async (req, res) => {
     return res.status(500).json({ success: false, message: error.message });
   }
 });
-
-// Stripe webhook endpoint
-app.post(
-  '/webhook',
-  bodyParser.raw({ type: 'application/json' }),
-  async (req, res) => {
-    const sig = req.headers['stripe-signature'];
-    let event;
-    try {
-      event = stripe.webhooks.constructEvent(
-        req.body,
-        sig,
-        process.env.STRIPE_WEBHOOK_SECRET
-      );
-      if (event.type === 'checkout.session.completed') {
-        const session = event.data.object;
-        const customer = await stripe.customers.retrieve(session.customer);
-        const user = await User.findOne({ email: customer.email });
-        if (user) {
-          user.hasPaid = true;
-          await user.save();
-        }
-      }
-    } catch (err) {
-      console.error('Webhook Error:', err.message);
-      return res.status(400).send(`Webhook Error: ${err.message}`);
-    }
-    res.status(200).json({ received: true });
-  }
-);
 
 // Payment records endpoint
 app.post('/paymentRecords', async (req, res) => {
