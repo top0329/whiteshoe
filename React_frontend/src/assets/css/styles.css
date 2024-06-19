@@ -99,33 +99,6 @@ body {
   display: block;
 }
 
-@media (max-width: 768px) {
-  .menu-toggle {
-    display: block;
-  }
-
-  .navbar ul {
-    display: none;
-    flex-direction: column;
-    width: 100%;
-    background-color: #000;
-    position: absolute;
-    top: 100%;
-    left: 0;
-    align-items: center; /* Center items vertically */
-  }
-
-  .navbar ul.open {
-    display: flex;
-  }
-
-  .navbar li {
-    width: 100%;
-    text-align: center;
-    padding: 1em 0;
-  }
-}
-
 /* Main content */
 .main-content {
   display: flex;
@@ -147,10 +120,9 @@ body {
   background-color: #f4f4f4;
   padding: 20px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  margin-right: 20px;
   border-radius: 10px;
   position: fixed;
-  left: -230px; /* Hide the sidebar mostly off-screen */
+  right: -250px; /* Hide the sidebar mostly off-screen */
   top: 20px;
   height: calc(100vh - 40px); /* Ensure sidebar fits the height */
   transition: left 0.3s ease;
@@ -158,12 +130,12 @@ body {
 }
 
 .sidebar:hover {
-  left: 0; /* Show sidebar on hover */
+  right: 0; /* Show sidebar on hover */
 }
 
 .sidebar-tab {
   position: absolute;
-  right: -30px;
+  left: -30px;
   top: 50%;
   width: 30px;
   height: 60px;
@@ -173,9 +145,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  cursor: pointer;
-  border-top-right-radius: 10px;
-  border-bottom-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
 }
 
 .sidebar ul {
@@ -533,12 +504,41 @@ th {
     width: 100%;
     margin-right: 0;
     margin-bottom: 20px;
-    position: static;
+    position: fixed;
   }
 
   .usage-history-page,
   .subscription-page {
     width: 100%;
+  }
+
+  .menu-toggle {
+    display: block;
+  }
+
+  .navbar ul {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    background-color: #000;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    align-items: center; /* Center items vertically */
+  }
+
+  .navbar ul.open {
+    display: flex;
+  }
+
+  .navbar li {
+    width: 100%;
+    text-align: center;
+    padding: 1em 0;
+  }
+
+  .sidebar {
+    display: none;
   }
 }
 
@@ -995,4 +995,74 @@ select option {
 
 .review-job-title {
   font-style: italic;
+}
+
+/* chat interface */
+.chat-interface {
+  width: 60%;
+  height: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.chat-interface .message-container {
+  margin-top: 40px;
+  width: 100%;
+}
+
+.chat-interface .input-container {
+  display: flex;
+  flex-direction: row;
+  position: absolute;
+  width: 100%;
+  bottom: 30px;
+  z-index: 10;
+  background-color: #f3f3f3;
+  padding: 10px;
+  border-radius: 40px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.input-container .input-box {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  padding: 10px;
+  width: 100%;
+}
+
+.input-container .submit-btn {
+  border: none;
+  background-color: transparent;
+}
+
+.input-container .submit-btn:hover {
+  color: #3f3f3f;
+}
+
+.input-container .file-selector {
+}
+
+.file-select-btn {
+  border: none;
+  background-color: transparent;
+  outline: none;
+}
+
+.file-select-btn:hover {
+  color: #3f3f3f;
+}
+
+.message-input {
+  background-color: #ccc;
+  width: fit-content;
+  padding: 10px 20px 10px 20px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
 }

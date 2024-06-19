@@ -29,22 +29,22 @@ const paymentRecordSchema = new mongoose.Schema({
 
 const fileSchema = new mongoose.Schema({
   userId: { type: mongoose.Schema.Types.ObjectId, ref: 'User' },
-  originalFilename: String,
-  filename: String,
-  filePath: String,
-  fileSize: Number,
-  fileType: String,
-  fileBits: String,
-  fileName: String,
+  originalFilename: { type: String },
+  filename: { type: String },
+  filePath: { type: String },
+  fileSize: { type: Number },
+  fileType: { type: String },
+  fileBits: { type: String },
+  fileName: { type: String },
   uploadDate: { type: Date, default: Date.now },
 });
 
 const settingsSchema = new mongoose.Schema({
   userId: { type: mongoose.Schema.Types.ObjectId, ref: 'User' },
-  defaultLanguage: String,
-  tone: String,
-  bodyOfLaw: [String],
-  output: String,
+  defaultLanguage: { type: String },
+  tone: { type: String },
+  bodyOfLaw: { type: [String] },
+  output: { type: String },
 });
 
 const usageSchema = new mongoose.Schema({

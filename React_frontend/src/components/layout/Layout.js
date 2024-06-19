@@ -2,6 +2,9 @@ import React, { useState, useEffect, useContext } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import ErrorBoundary from '../common/ErrorBoundary';
 import { AuthContext } from 'provider/auth-provider';
+import { faArrowLeft } from '@fortawesome/free-solid-svg-icons'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+
 import '../../assets/css/styles.css';
 import 'react-dropdown/style.css';
 
@@ -88,11 +91,11 @@ const Layout = ({ children }) => {
         </header>
         <div className='navbar-container'>
           <nav className='navbar'>
-            <button className='menu-toggle'>
+            {/* <button className='menu-toggle'>
               <div className='bar'></div>
               <div className='bar'></div>
               <div className='bar'></div>
-            </button>
+            </button> */}
             <ul className={isMenuOpen ? 'open' : ''}>
               <li>
                 <Link to='/' onClick={closeMenu}>
@@ -151,26 +154,18 @@ const Layout = ({ children }) => {
                 </>
               )}
             </ul>
-            {/* <div className='auth-menu'>
-              <ul>
-                {isLoggedIn ?
-                  <li>
-                    <button className='logout-button' onClick={handleLogout}>
-                      Logout
-                    </button>
-                  </li> :
-                  <li>
-                    <Link to="/login" >Signin</Link>
-                  </li>}
-              </ul>
-            </div> */}
           </nav>
         </div>
         <div className='main-content'>
           <main className='content'>{children}</main>
           {isLoggedIn && (
             <aside className='sidebar'>
-              <div className='sidebar-tab'>&gt;</div>
+              <div className='sidebar-tab'>
+                <FontAwesomeIcon
+                  icon={faArrowLeft}
+                  className='dropdown-icon'
+                />
+              </div>
               <ul>
                 <li>
                   <Link to='/settings'>Settings</Link>

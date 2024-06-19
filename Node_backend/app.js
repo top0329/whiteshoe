@@ -186,7 +186,6 @@ app.post('/login', async (req, res) => {
   const { email, password } = req.body;
   try {
     const user = await User.findOne({ email });
-    console.log({ user });
     if (!user) {
       console.log('User not found');
       return res
@@ -636,7 +635,7 @@ app.put('/settings', async (req, res) => {
 });
 
 // Get settings endpoint
-app.post('/getSettings', async (req, res) => {
+app.post('/get-settings', async (req, res) => {
   const { token } = req.body;
   if (!token) {
     return res
@@ -648,22 +647,29 @@ app.post('/getSettings', async (req, res) => {
     const userId = decodedToken.userId;
     const settings = await Settings.findOne({ userId });
     if (!settings) {
-      return res
-        .status(404)
-        .json({ success: false, message: 'Settings not found for the user.' });
+      return res.status(404).json({
+        success: false,
+        message: 'Settings are not existed for this user.',
+      });
     }
+    console.log({ settings });
     res.status(200).json({ success: true, settings });
   } catch (error) {
     console.error('Get settings error:', error.message);
-    if (error.message === 'jwt expired') {
+    if ((error.message === 'jwt expired') | (error.message === 'invalid token')) {
       return res.status(500).json({
         success: false,
-        message: 'Your session has expired. Please login again.',
+        message: error.message,
       });
     }
     return res.status(500).json({ success: false, message: error.message });
   }
 });
+
+// Save chat endpoint
+app.post('/save-chat', async (req, res) => {
+  const { token, chat } = req.body;
+})
 
 // Log token usage
 app.post('/log-token-usage', async (req, res) => {
