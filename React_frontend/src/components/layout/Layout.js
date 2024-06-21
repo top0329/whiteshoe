@@ -2,20 +2,25 @@ import React, { useState, useEffect, useContext } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import ErrorBoundary from '../common/ErrorBoundary';
 import { AuthContext } from 'provider/auth-provider';
-import { faArrowLeft } from '@fortawesome/free-solid-svg-icons'
+import { faArrowLeft } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 import '../../assets/css/styles.css';
 import 'react-dropdown/style.css';
 
 const Layout = ({ children }) => {
-  const [isMenuOpen, setIsMenuOpen] = useState(false);
-  const navigate = useNavigate();
   const { isLoggedIn, setIsLoggedIn } = useContext(AuthContext);
+  const navigate = useNavigate();
 
-  // const toggleMenu = () => {
-  //   setIsMenuOpen(!isMenuOpen);
-  // };
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [windowSize, setWindowSize] = useState({
+    width: undefined,
+    height: undefined,
+  });
+
+  const toggleMenu = () => {
+    setIsMenuOpen(!isMenuOpen);
+  };
 
   const closeMenu = () => {
     setIsMenuOpen(false);
@@ -27,6 +32,18 @@ const Layout = ({ children }) => {
     localStorage.removeItem('token');
     navigate('/login');
   };
+
+  useEffect(() => {
+    function handleResize() {
+      setWindowSize({
+        width: window.innerWidth,
+        height: window.innerHeight,
+      });
+    }
+    window.addEventListener('resize', handleResize);
+    handleResize();
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
 
   useEffect(() => {
     window.googleTranslateElementInit = () => {
@@ -80,75 +97,89 @@ const Layout = ({ children }) => {
 
   return (
     <ErrorBoundary>
-      <div className='layout-container'>
-        <header className='header'>
+      <div className="layout-container">
+        <header className="header">
           <img
             src={`/assets/WS_logo.png`}
             style={{ height: '50px', marginRight: '10px' }}
-            alt='Logo'
+            alt="Logo"
           />
           <h1>Whiteshoe</h1>
         </header>
-        <div className='navbar-container'>
-          <nav className='navbar'>
-            {/* <button className='menu-toggle'>
-              <div className='bar'></div>
-              <div className='bar'></div>
-              <div className='bar'></div>
-            </button> */}
-            <ul className={isMenuOpen ? 'open' : ''}>
+        <div className="navbar-container">
+          <nav className="navbar">
+            <button className="menu-toggle" onClick={() => toggleMenu()}>
+              <div className="bar"></div>
+              <div className="bar"></div>
+              <div className="bar"></div>
+            </button>
+            <ul
+              className={
+                isMenuOpen ? (windowSize.width > 768 ? '' : 'open') : ''
+              }
+            >
               <li>
-                <Link to='/' onClick={closeMenu}>
+                <Link to="/" onClick={closeMenu}>
                   Home
                 </Link>
               </li>
               <li>
-                <Link to='/work' onClick={closeMenu}>
+                <Link to="/work" onClick={closeMenu}>
                   Work
                 </Link>
               </li>
               <li>
-                <Link to='/documentation' onClick={closeMenu}>
+                <Link to="/documentation" onClick={closeMenu}>
                   Documentation
                 </Link>
               </li>
               <li>
-                <Link to='/arbitrate' onClick={closeMenu}>
+                <Link to="/arbitrate" onClick={closeMenu}>
                   Arbitrate
                 </Link>
               </li>
               {!isLoggedIn && (
                 <li>
-                  <Link to='/signup' onClick={closeMenu}>
+                  <Link to="/signup" onClick={closeMenu}>
                     Start
                   </Link>
                 </li>
               )}
-              {window.innerWidth <= 768 && (
+              {windowSize.width !== undefined && windowSize.width <= 768 && (
                 <>
                   <li>
-                    <Link to='/settings' onClick={closeMenu}>
+                    <Link to="/settings" onClick={closeMenu}>
                       Settings
                     </Link>
                   </li>
                   <li>
-                    <Link to='/files' onClick={closeMenu}>
+                    <Link to="/files" onClick={closeMenu}>
                       Files
                     </Link>
                   </li>
                   <li>
-                    <Link to='/account' onClick={closeMenu}>
+                    <Link to="/account" onClick={closeMenu}>
                       Account
                     </Link>
                   </li>
                   <li>
-                    <Link to='/billing' onClick={closeMenu}>
+                    <Link to="/billing" onClick={closeMenu}>
                       Billing
                     </Link>
                   </li>
                   <li>
-                    <Link to='/privacypolicy' onClick={closeMenu}>
+                    <Link to="/privacypolicy" onClick={closeMenu}>
                       Privacy Policy
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      onClick={() => {
+                        closeMenu();
+                        handleLogout();
+                      }}
+                    >
+                      Logout
                     </Link>
                   </li>
                 </>
@@ -156,28 +187,39 @@ const Layout = ({ children }) => {
             </ul>
           </nav>
         </div>
-        <div className='main-content'>
-          <main className='content'>{children}</main>
+        {isMenuOpen && (
+          <div
+            style={{
+              position: 'absolute',
+              top: 0,
+              right: 0,
+              bottom: 0,
+              left: 0,
+              zIndex: 40,
+            }}
+            onClick={closeMenu}
+          ></div>
+        )}
+
+        <div className="main-content">
+          <main className="content">{children}</main>
           {isLoggedIn && (
-            <aside className='sidebar'>
-              <div className='sidebar-tab'>
-                <FontAwesomeIcon
-                  icon={faArrowLeft}
-                  className='dropdown-icon'
-                />
+            <aside className="sidebar">
+              <div className="sidebar-tab">
+                <FontAwesomeIcon icon={faArrowLeft} className="dropdown-icon" />
               </div>
               <ul>
                 <li>
-                  <Link to='/settings'>Settings</Link>
+                  <Link to="/settings">Settings</Link>
                 </li>
                 <li>
-                  <Link to='/files'>Files</Link>
+                  <Link to="/files">Files</Link>
                 </li>
                 <li>
-                  <Link to='/billing'>Billing</Link>
+                  <Link to="/billing">Billing</Link>
                 </li>
                 <li>
-                  <Link to='/account'>Account</Link>
+                  <Link to="/account">Account</Link>
                 </li>
                 <li>
                   <Link onClick={handleLogout}>Logout</Link>
@@ -186,11 +228,11 @@ const Layout = ({ children }) => {
             </aside>
           )}
         </div>
-        <footer className='footer'>
+        <footer className="footer">
           <p>Copyright © 2024 Web3 Services, LLC. All rights reserved.</p>
           <div
-            id='google_translate_element'
-            className='translate-element'
+            id="google_translate_element"
+            className="translate-element"
           ></div>
         </footer>
       </div>

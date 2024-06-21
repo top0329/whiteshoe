@@ -120,7 +120,8 @@ function Home() {
       let externalInfoTexts = [];
       for (let country of bodyOfLaw) {
         let externalInfoResponse = await axios.get(
-          `https://www.googleapis.com/customsearch/v1?q=${ragInput}&key=${process.env.GOOGLE_API_KEY
+          `https://www.googleapis.com/customsearch/v1?q=${ragInput}&key=${
+            process.env.GOOGLE_API_KEY
           }&cx=${CSE[country] || CSE.Other}`
         );
         let externalInfoText = externalInfoResponse.data.items
@@ -130,8 +131,10 @@ function Home() {
       }
       let combinedExternalInfoText = externalInfoTexts.join('\n');
 
-      console.log('response => ', `${ragInput}\n\nYou are a ${tone} lawyer who knows the law of ${bodyOfLaw} and writes in ${language}.\n\nIncorporate the following external information into the response:\n${combinedExternalInfoText}\n\nPlease provide a concise response with key points in less than 1000 tokens.`);
-
+      console.log(
+        'response => ',
+        `${ragInput}\n\nYou are a ${tone} lawyer who knows the law of ${bodyOfLaw} and writes in ${language}.\n\nIncorporate the following external information into the response:\n${combinedExternalInfoText}\n\nPlease provide a concise response with key points in less than 1000 tokens.`
+      );
 
       let shortResponse = await axios.post(
         `https://api.openai.com/v1/chat/completions`,
@@ -294,55 +297,56 @@ function Home() {
         title: 'Commercial Attorney',
         text: "I have found this tool to be incredibly valuable for my legal tasks. It seamlessly integrates document review, including complaints and appeals, and offers optimal strategies for specific cases. Moreover, it efficiently identifies relevant cases and precedents, significantly reducing workload. All information is meticulously cited from reliable sources and contains high-quality legal reasoning. Consequently, some sections of the response can be directly integrated into work, while others provide a robust foundation for further development. I have found this tool to be incredibly valuable for my legal tasks. It seamlessly integrates document review, including complaints and appeals, and offers optimal strategies for specific cases. Moreover, it efficiently identifies relevant cases and precedents, significantly reducing workload. All information is meticulously cited from reliable sources and contains high-quality legal reasoning. Consequently, some sections of the response can be directly integrated into work, while others provide a robust foundation for further development. This tool acts as a substitute for a paralegal with comprehensive case knowledge and strong reasoning skills, making it an ideal assistant for any lawyer. I personally commend the quality of the AI's output and the promptness of responses. It accomplishes in minutes what could take hours or days for even the most experienced lawyers.",
         photo: '/assets/zeynap.png',
-      }, {
+      },
+      {
         name: 'Omar',
         title: 'Lawyer',
-        text: "I have used WhiteShoe and I think it is a good tool for legal assistance. The outputs about Pedro Castillo, demonstrates an evident quality in the analysis capacity due to the clarity and precise discussion of legal concepts and the practical case. Of course, the well-structured summary of events and their legal consequences are just an example of what this language model can develop.",
+        text: 'I have used WhiteShoe and I think it is a good tool for legal assistance. The outputs about Pedro Castillo, demonstrates an evident quality in the analysis capacity due to the clarity and precise discussion of legal concepts and the practical case. Of course, the well-structured summary of events and their legal consequences are just an example of what this language model can develop.',
         photo: '/assets/omar.png',
       },
     ]);
   }, []);
 
   return (
-    <div className='content-wrapper'>
-      <main className='main'>
-        <div className='flex-container'>
-          <div className='flex-item grey-box'>
-            <h3 className='centered-title'>Short Mode</h3>
-            <p className='centered-text'>
+    <div className="content-wrapper">
+      <main className="main">
+        <div className="flex-container">
+          <div className="flex-item grey-box">
+            <h3 className="centered-title">Short Mode</h3>
+            <p className="centered-text">
               This is a short response chat interface--GPT4o with specialized
               RAG integration for your jurisdiction. In other words it is like
               chat gpt but with access to specialized legal databases for
               specific jurisdictions.
             </p>
-            <div className='rag-short-mode'>
+            <div className="rag-short-mode">
               <form onSubmit={handleRagSubmit}>
-                <div className='form-group horizontal-group'>
-                  <label htmlFor='tone'>Select Tone:</label>
+                <div className="form-group horizontal-group">
+                  <label htmlFor="tone">Select Tone:</label>
                   <select
-                    className='select-tone'
-                    id='tone'
+                    className="select-tone"
+                    id="tone"
                     value={tone}
-                    placeholder='Select Tone'
+                    placeholder="Select Tone"
                     onChange={(e) => setTone(e.target.value)}
                     required
                   >
-                    <option value='' disabled hidden>
+                    <option value="" disabled hidden>
                       Select Tone
                     </option>
-                    <option value='professional'>Professional</option>
-                    <option value='casual'>Casual</option>
-                    <option value='authoritative'>Authoritative</option>
+                    <option value="professional">Professional</option>
+                    <option value="casual">Casual</option>
+                    <option value="authoritative">Authoritative</option>
                   </select>
-                  <label htmlFor='bodyOfLaw'>Select Body of Law:</label>
+                  <label htmlFor="bodyOfLaw">Select Body of Law:</label>
                   <select
-                    className='select-law'
-                    id='bodyOfLaw'
+                    className="select-law"
+                    id="bodyOfLaw"
                     value={bodyOfLaw}
                     onChange={(e) => setBodyOfLaw(e.target.value)}
                     required
                   >
-                    <option value='' disabled hidden>
+                    <option value="" disabled hidden>
                       Select Body of Law
                     </option>
                     {Object.keys(CSE).map((key) => (
@@ -351,48 +355,48 @@ function Home() {
                       </option>
                     ))}
                   </select>
-                  <label htmlFor='language'>Select Language:</label>
+                  <label htmlFor="language">Select Language:</label>
                   <select
-                    className='select-language'
-                    id='language'
+                    className="select-language"
+                    id="language"
                     value={language}
                     onChange={(e) => setLanguage(e.target.value)}
                     required
                   >
-                    <option value='' disabled hidden>
+                    <option value="" disabled hidden>
                       Select Language
                     </option>
-                    <option value='en'>English</option>
-                    <option value='es'>Spanish</option>
-                    <option value='fr'>French</option>
-                    <option value='de'>German</option>
-                    <option value='it'>Italian</option>
-                    <option value='pt'>Portuguese</option>
-                    <option value='zh-CN'>Chinese</option>
-                    <option value='ja'>Japanese</option>
-                    <option value='ko'>Korean</option>
-                    <option value='ar'>Arabic</option>
+                    <option value="en">English</option>
+                    <option value="es">Spanish</option>
+                    <option value="fr">French</option>
+                    <option value="de">German</option>
+                    <option value="it">Italian</option>
+                    <option value="pt">Portuguese</option>
+                    <option value="zh-CN">Chinese</option>
+                    <option value="ja">Japanese</option>
+                    <option value="ko">Korean</option>
+                    <option value="ar">Arabic</option>
                   </select>
                 </div>
-                <div className='form-group'>
-                  <label htmlFor='rag-input'>Enter your query:</label>
+                <div className="form-group">
+                  <label htmlFor="rag-input">Enter your query:</label>
                   <textarea
-                    id='rag-input'
-                    name='rag-input'
+                    id="rag-input"
+                    name="rag-input"
                     value={ragInput}
                     onChange={handleRagInputChange}
                     required
                   ></textarea>
                   <button
-                    type='submit'
+                    type="submit"
                     disabled={isLoading || usageCount >= maxUsage}
-                    className='arrow-button'
+                    className="arrow-button"
                   >
                     →
                   </button>
                 </div>
               </form>
-              <div className='rag-output'>
+              <div className="rag-output">
                 {isShortLoading ? (
                   <ReactLoading
                     type={'spin'}
@@ -411,9 +415,9 @@ function Home() {
               </div>
             </div>
           </div>
-          <div className='flex-item grey-box'>
-            <h3 className='centered-title'>Long Mode</h3>
-            <p className='centered-text'>
+          <div className="flex-item grey-box">
+            <h3 className="centered-title">Long Mode</h3>
+            <p className="centered-text">
               This is complete long document generation with downloads to your
               machine--GPT4o with specialized RAG integration for your
               jurisdiction. These are competent, well organized, complete
@@ -423,78 +427,87 @@ function Home() {
               will download a well organized 20 page response with specific
               facts woven into jurisdiction-specific legal reasoning.
             </p>
-            <div className='process-graphic'>
-              <div className='icon-with-text'>
-                <img src={whiteDocIcon} alt='White Document Icon' />
-                <p className='document-text'>Upload Files</p>
+            <div className="process-graphic">
+              <div className="icon-with-text">
+                <img src={whiteDocIcon} alt="White Document Icon" />
+                <p className="document-text">Upload Files</p>
               </div>
-              <div className='arrow-and-text'>
-                <div className='arrow'>→</div>
-                <p className='arrow-text'>
+              <div className="arrow-and-text">
+                <div className="arrow">→</div>
+                <p className="arrow-text">
                   "Write a memo/brief/answer/complaint, based on the file."
                 </p>
               </div>
-              <div className='icon-with-text'>
-                <img src={blackDocIcon} alt='Black Document Icon' />
-                <p className='document-text'>Output Download</p>
+              <div className="icon-with-text">
+                <img src={blackDocIcon} alt="Black Document Icon" />
+                <p className="document-text">Output Download</p>
               </div>
             </div>
-            <div className='demo-documents'>
+            <div className="demo-documents">
               <select
                 value={selectedDemo}
                 onChange={handleDemoChange}
-                className='demo-select'
+                className="demo-select"
               >
-                <option value=''>View a demo</option>
-                <option value='alaska_answer'>Alaska Answer (English)</option>
-                <option value='Trump_Answer'>
+                <option value="">View a demo</option>
+                <option value="alaska_answer">Alaska Answer (English)</option>
+                <option value="Trump_Answer">
                   New York Answer Donald Trump (English)
                 </option>
-                <option value='Jarkesy_Brief'>
+                <option value="Jarkesy_Brief">
                   SCOTUS Brief SEC (English)
                 </option>
-                <option value='Heard_Answer'>
+                <option value="Heard_Answer">
                   Virginia Answer Amber Heard (English)
                 </option>
-                <option value='Castillo_Peru'>
+                <option value="Castillo_Peru">
                   Peru Brief Pedro Castillo (Spanish)
                 </option>
-                <option value='argentina_answer'>
+                <option value="argentina_answer">
                   Argentina Answer (Spanish)
                 </option>
-                <option value='colombia_intergovernment'>
+                <option value="colombia_intergovernment">
                   Colombia Intergovernment Memo (Spanish)
                 </option>
-                <option value='turkish_securities'>
+                <option value="turkish_securities">
                   Turkish Securities Memo (Turkish)
                 </option>
               </select>
               {demoContent && (
                 <div
-                  className='scrollable-box'
+                  className="scrollable-box"
                   dangerouslySetInnerHTML={{ __html: demoContent }}
                 ></div>
               )}
             </div>
           </div>
         </div>
-        <div className='pricing-functionality'>
+        <div className="pricing-functionality">
           <h3>Whiteshoe Work</h3>
-          <div className='pricing-options'>
-            <div className='pricing-option'>
-              <h4>Free</h4>
-              <ul>
-                <li>Short mode only</li>
-                <li>Generate up to 10 pages</li>
-              </ul>
+          <div className="pricing-options">
+            <div
+              className="pricing-option"
+              style={{
+                display: 'flex',
+                flexDirection: 'column',
+                justifyContent: 'space-between',
+              }}
+            >
+              <div>
+                <h4>Free</h4>
+                <ul>
+                  <li>Short mode only</li>
+                  <li>Generate up to 10 pages</li>
+                </ul>
+              </div>
               <button
                 onClick={() => handleSubscribe('free')}
-                className='signup-button'
+                className="signup-button"
               >
                 Sign up
               </button>
             </div>
-            <div className='pricing-option'>
+            <div className="pricing-option">
               <h4>Usage</h4>
               <ul>
                 <li>No monthly fee</li>
@@ -506,12 +519,12 @@ function Home() {
               </ul>
               <button
                 onClick={() => handleSubscribe('usage')}
-                className='signup-button'
+                className="signup-button"
               >
                 Sign up
               </button>
             </div>
-            <div className='pricing-option'>
+            <div className="pricing-option">
               <h4>Subscription</h4>
               <ul>
                 <li>$50 monthly fee</li>
@@ -523,42 +536,42 @@ function Home() {
               </ul>
               <button
                 onClick={() => handleSubscribe('member')}
-                className='signup-button'
+                className="signup-button"
               >
                 Sign up
               </button>
             </div>
           </div>
         </div>
-        <div className='review-section'>
+        <div className="review-section">
           <h3>Lawyers Review Whiteshoe Reasoning</h3>
-          <div className='review-container'>
-            <button className='prev-button' onClick={handlePrevReview}>
+          <div className="review-container">
+            <button className="prev-button" onClick={handlePrevReview}>
               ←
             </button>
-            <div className='review-content'>
-              <div className='review-details'>
+            <div className="review-content">
+              <div className="review-details">
                 {reviews.length > 0 && (
                   <>
                     <img
                       src={reviews[currentReview].photo}
                       alt={reviews[currentReview].name}
-                      className='review-photo'
+                      className="review-photo"
                     />
-                    <div className='review-text'>
+                    <div className="review-text">
                       <h4>{reviews[currentReview].name}</h4>
-                      <p className='review-job-title'>
+                      <p className="review-job-title">
                         {reviews[currentReview].title}
                       </p>
                     </div>
-                    <p className='review-comments'>
+                    <p className="review-comments">
                       {reviews[currentReview].text}
                     </p>
                   </>
                 )}
               </div>
             </div>
-            <button className='next-button' onClick={handleNextReview}>
+            <button className="next-button" onClick={handleNextReview}>
               →
             </button>
           </div>

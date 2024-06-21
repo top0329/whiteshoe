@@ -31,6 +31,7 @@ body {
 /* Navbar */
 /* Navbar */
 .navbar-container {
+  position: relative;
   background-color: #000; /* Black background for the navbar */
   display: flex;
   justify-content: center; /* Center the navbar container */
@@ -331,7 +332,7 @@ body {
 .pricing-functionality {
   background-color: #f0f0f0;
   border: 2px solid black;
-  padding: 20px;
+  padding: 8px;
   margin-top: 20px;
   box-sizing: border-box;
   margin-bottom: 20px;
@@ -494,6 +495,7 @@ th {
 @media (max-width: 768px) {
   .main-content {
     flex-direction: column;
+    padding: 0px;
   }
 
   .navbar ul {
@@ -528,7 +530,9 @@ th {
   }
 
   .navbar ul.open {
+    position: absolute;
     display: flex;
+    z-index: 50;
   }
 
   .navbar li {
@@ -540,6 +544,82 @@ th {
   .sidebar {
     display: none;
   }
+
+  .review-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .review-text {
+    display: flex;
+    align-items: center;
+    max-width: 600px; /* Adjust max-width for larger text */
+    text-align: center;
+    margin-right: 0px !important;
+    gap: 10px;
+  }
+
+  .review-photo {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-right: 0px !important;
+  }
+
+  .review-job-title {
+    font-style: italic;
+    margin-top: 16px;
+    text-align: center;
+  }
+
+  .review-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px -40px !important;
+  }
+
+  /* chat interface responsive */
+  .chat-interface {
+    width: 90% !important;
+    height: 69vh !important;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .chat-interface .message-container {
+    margin-top: 20px !important;
+    height: auto;
+    overflow-y: scroll !important;
+    width: 100%;
+  }
+
+  .chat-interface .input-container {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    width: 100%;
+    bottom: 30px;
+    z-index: 10;
+    background-color: #f3f3f3;
+    padding: 10px;
+    border-radius: 40px;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .work-title {
+    font-size: 20px !important;
+  }
+}
+
+.work-title {
+  font-size: 30px;
 }
 
 /* General form styles */
@@ -856,11 +936,6 @@ select option {
   margin-top: 50px;
   text-align: center;
 }
-.review-container {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
 
 .review-content {
   display: flex;
@@ -871,15 +946,6 @@ select option {
 .review-details {
   display: flex;
   align-items: center;
-}
-
-.review-photo {
-  border-radius: 50%;
-  margin-right: 10px;
-}
-
-.review-text {
-  margin-right: 20px;
 }
 
 .review-comments {
@@ -991,6 +1057,7 @@ select option {
 .review-text {
   max-width: 600px; /* Adjust max-width for larger text */
   text-align: left;
+  margin-right: 20px;
 }
 
 .review-job-title {
@@ -1010,6 +1077,10 @@ select option {
 }
 .chat-interface .message-container {
   margin-top: 40px;
+  margin-bottom: 100px;
+  height: auto;
+  overflow-y: hidden;
+  overflow-wrap: anywhere;
   width: 100%;
 }
 

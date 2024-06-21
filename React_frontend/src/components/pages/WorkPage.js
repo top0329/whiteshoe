@@ -2,7 +2,11 @@ import React, { useState, useEffect, useRef } from 'react';
 import axios from 'axios';
 import '../../assets/css/styles.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCircleArrowRight, faCirclePause, faArrowUpFromBracket } from '@fortawesome/free-solid-svg-icons';
+import {
+  faCircleArrowRight,
+  faCirclePause,
+  faArrowUpFromBracket,
+} from '@fortawesome/free-solid-svg-icons';
 import { Button, Modal } from 'react-bootstrap';
 import HtmlDocx from 'html-docx-js/dist/html-docx';
 import { toast } from 'react-toastify';
@@ -142,17 +146,19 @@ function WorkPage() {
   const getAIResponse = async (prompt, maxTokens, targetLength) => {
     setIsSubmitLoading(true);
 
-    const settingsSentence = `You are a ${userSettings.tone
-      } lawyer who knows the law of ${userSettings.bodyOfLaw.join(
-        ', '
-      )} and writes in ${userSettings.language}.`;
+    const settingsSentence = `You are a ${
+      userSettings.tone
+    } lawyer who knows the law of ${userSettings.bodyOfLaw.join(
+      ', '
+    )} and writes in ${userSettings.language}.`;
 
     try {
       if (userSettings.shortMode) {
         let externalInfoTexts = [];
         for (let country of userSettings.bodyOfLaw) {
           let externalInfoResponse = await axios.get(
-            `https://www.googleapis.com/customsearch/v1?q=${prompt}&key=${process.env.REACT_APP_GOOGLE_API_KEY
+            `https://www.googleapis.com/customsearch/v1?q=${prompt}&key=${
+              process.env.REACT_APP_GOOGLE_API_KEY
             }&cx=${CSE[country] || CSE.Other}`
           );
           let externalInfoText = externalInfoResponse.data.items
@@ -238,7 +244,8 @@ function WorkPage() {
           let externalInfoTexts = [];
           for (let country of userSettings.bodyOfLaw) {
             let externalInfoResponse = await axios.get(
-              `https://www.googleapis.com/customsearch/v1?q=${section}&key=${process.env.REACT_APP_GOOGLE_API_KEY
+              `https://www.googleapis.com/customsearch/v1?q=${section}&key=${
+                process.env.REACT_APP_GOOGLE_API_KEY
               }&cx=${CSE[country] || CSE.Other}`
             );
 
@@ -358,19 +365,22 @@ function WorkPage() {
         : textualToNumeric(pageCountText);
     }
 
-    let userPrompt = `${prompt}\n\nYou are a ${userSettings.tone
-      } lawyer who knows the law of ${userSettings.bodyOfLaw.join(
-        ', '
-      )} and speaks only ${userSettings?.defaultLanguage
+    let userPrompt = `${prompt}\n\nYou are a ${
+      userSettings.tone
+    } lawyer who knows the law of ${userSettings.bodyOfLaw.join(
+      ', '
+    )} and speaks only ${
+      userSettings?.defaultLanguage
         ? userSettings.defaultLanguage
         : userSettings.language
-      }.`;
+    }.`;
 
-    console.log('User Prompt:', userPrompt)
+    console.log('User Prompt:', userPrompt);
     setMessages([...messages, { input, type: 'user' }]);
     handleSendMessage(prompt, 'user');
 
     let aiResponse = await getAIResponse(userPrompt, 4096, targetLength);
+    console.log(aiResponse);
 
     if (aiResponse && aiResponse.trim() !== '') {
       aiResponse = aiResponse.replace(/\n/g, '<br>');
@@ -431,25 +441,25 @@ function WorkPage() {
   }
 
   return (
-    <div className='chat-interface'>
-      <h1>Generate Documents with AI</h1>
-      <div className='message-container' id='message-field'>
+    <div className="chat-interface">
+      <h1 className='work-title'>Generate Documents with AI</h1>
+      <div className="message-container" id="message-field">
         {messages.map((message, index) => (
           <div key={index} className={`message ${message.type}`}>
-            <p className='message-input'>{message.input}</p>
-            <p className='message-output'>{message.output}</p>
+            <p className="message-input">{message.input}</p>
+            <p className="message-output">{message.output}</p>
           </div>
         ))}
         {isSubmitLoading && <div>Generating Response...</div>}
         <div ref={bottomRef} />
       </div>
-      <div className='input-container'>
-        <div className='file-selector'>
-          <button className='file-select-btn' onClick={handleShow}>
+      <div className="input-container">
+        <div className="file-selector">
+          <button className="file-select-btn" onClick={handleShow}>
             <FontAwesomeIcon
               icon={faArrowUpFromBracket}
               onClick={handleIconClick}
-              size='lg'
+              size="lg"
             />
           </button>
           <Modal show={show} onHide={handleClose}>
@@ -462,9 +472,9 @@ function WorkPage() {
                   ref={selectRef}
                   value={selectedFile}
                   onChange={handleFileChange}
-                  className='form-control'
+                  className="form-control"
                 >
-                  <option value=''>Select a file!</option>
+                  <option value="">Select a file!</option>
                   {files.map((file) => (
                     <option key={file._id} value={file.filename}>
                       {file.filename}
@@ -476,27 +486,27 @@ function WorkPage() {
               )}
             </Modal.Body>
             <Modal.Footer>
-              <Button variant='secondary' onClick={handleClose}>
+              <Button variant="secondary" onClick={handleClose}>
                 Close
               </Button>
-              <Button variant='primary' onClick={handleClose}>
+              <Button variant="primary" onClick={handleClose}>
                 Save Changes
               </Button>
             </Modal.Footer>
           </Modal>
         </div>
         <input
-          type='text'
-          className='input-box'
-          placeholder='Ask Whiteshoe AI...'
+          type="text"
+          className="input-box"
+          placeholder="Ask Whiteshoe AI..."
           value={input}
           onChange={(e) => setInput(e.target.value)}
           onKeyDown={(e) => e.key === 'Enter' && handleSubmit(e)}
         />
-        <button className='submit-btn' onClick={handleSubmit}>
+        <button className="submit-btn" onClick={handleSubmit}>
           <FontAwesomeIcon
             icon={isSubmitLoading ? faCirclePause : faCircleArrowRight}
-            size='xl'
+            size="xl"
             color={input ? '#000' : '#ccc'}
           />
         </button>
